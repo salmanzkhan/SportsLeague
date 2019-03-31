@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+ /* background-color: #333;*/
+    background-color: #337ab7;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #337ab7;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.topnav-right {
+  float: right;
+}
+.content {
+ 
+    
+}
+.footer {
+  background-color: #337ab7;
+  padding: 10px;
+}
+.tab{
+    /*float:left*/
+  margin-left: 1px;
+  padding-left: 20px;
+    width: 25%;
+   
+    /* background-color:gray;*/
+}
+.tabnew{
+    float:left;
+  margin-left: 1px;
+  padding-left: 20px;
+    width: 25%;
+   
+    /* background-color:gray;*/
+}
+.tabseason{
+    float:left;
+  margin-left: 1px;
+  padding-left: 20px;
+    width: 35%;
+   
+    /* background-color:gray;*/
+}
+
+.tabPlayer {
+float:left;    
+  margin-left: 1px;
+  padding-left: 20px;
+    width: 60%;
+    /* background-color:gray;*/
+}
+.tabuser{
+   float:left;  
+    margin-left: 1px;
+     margin-top: 80px;
+  padding-left: 20px;
+    width: 40%;
+    /* background-color:gray;*/
+}
+.tabuserLeague{
+   /*float:left;  */
+    margin-left: 1px;
+     margin-top: 80px;
+  padding-left: 20px;
+    width: 40%;
+    /* background-color:gray;*/
+}
+.tabsport{
+   float:left;  
+    margin-left: 1px;
+     margin-top: 80px;
+  padding-left: 20px;
+    width: 40%;
+    /* background-color:gray;*/
+}
+.tabsls{
+/* float:left; */
+margin-left: 1px;    
+margin-top: 160px;
+ padding-left: 20px;    
+/*  padding-left: 20px;*/
+    width: 40%;
+    /* background-color:gray;*/
+}
+/*.tabSeason{
+      float:left;
+    margin-left: 1px;
+     margin-top: 20px;
+  padding-left: 20px;
+    width: 35%;
+     background-color:gray;
+}*/
+.tabSchedule {
+  margin-left: 1px;
+  padding-left: 20px;
+    width: 60%;
+    /* background-color:gray;*/
+}

@@ -1,0 +1,1843 @@
+ [ 2019-03-21 01:22:16]Error:Logged in successfully
+ [ 2019-03-21 01:23:47]Error:Logged in successfully
+ [ 2019-03-21 01:24:54]Error:Logged in successfully
+ [ 2019-03-21 04:21:48]Error:Logged in successfully
+ [ 2019-03-21 05:27:10]Error:Logged in successfully
+ [ 2019-03-21 05:27:18]Error:welcome to Schedule page
+ [ 2019-03-21 05:27:18]Error:Display Schedule rseult
+ [ 2019-03-21 05:27:26]Error:Display Team page result
+ [ 2019-03-21 05:27:31]Error:welcome to Schedule page
+ [ 2019-03-21 05:27:31]Error:Display Schedule rseult
+ [ 2019-03-21 05:56:10]Error:Display Team page result
+ [ 2019-03-21 06:06:45]Error:Display Team page result
+ [ 2019-03-21 06:11:18]Error:welcome to Schedule page
+ [ 2019-03-21 06:11:18]Error:Display Schedule rseult
+ [ 2019-03-21 06:14:44]Error:welcome to Schedule page
+ [ 2019-03-21 06:14:44]Error:Display Schedule rseult
+ [ 2019-03-21 06:14:46]Error:welcome to Schedule page
+ [ 2019-03-21 06:14:46]Error:Display Schedule rseult
+ [ 2019-03-21 06:15:48]Error:welcome to Schedule page
+ [ 2019-03-21 06:15:48]Error:Display Schedule rseult
+ [ 2019-03-21 06:22:32]Error:Session Team ID : 401
+ [ 2019-03-21 06:22:32]Error:Session Username : rcbadmin
+ [ 2019-03-21 06:24:36]Error:Session Team ID : 401
+ [ 2019-03-21 06:24:36]Error:Session Username : rcbadmin
+ [ 2019-03-21 06:25:06]Error:welcome to Schedule page
+ [ 2019-03-21 06:25:06]Error:Display Schedule rseult
+ [ 2019-03-21 06:25:09]Error:Session Team ID : 401
+ [ 2019-03-21 06:25:09]Error:Session Username : rcbadmin
+ [ 2019-03-21 06:25:10]Error:Display Team page result
+ [ 2019-03-21 06:32:07]Error:Logged in successfully
+ [ 2019-03-21 06:32:07]Error:Session Team ID : 401
+ [ 2019-03-21 06:32:07]Error:Session Username : rcbadmin
+ [ 2019-03-21 06:32:17]Error:Display Team page result
+ [ 2019-03-21 06:32:19]Error:welcome to Schedule page
+ [ 2019-03-21 06:32:19]Error:Display Schedule rseult
+ [ 2019-03-21 06:32:21]Error:Session Team ID : 401
+ [ 2019-03-21 06:32:21]Error:Session Username : rcbadmin
+ [ 2019-03-21 06:35:18]Error:Display Team page result
+ [ 2019-03-21 06:40:26]Error:Display Team page result
+ [ 2019-03-21 06:41:19]Error:Display Team page result
+ [ 2019-03-21 06:41:38]Error:Display Team page result
+ [ 2019-03-21 06:42:01]Error:Display Team page result
+ [ 2019-03-21 06:44:47]Error:Display Team page result
+ [ 2019-03-21 06:45:50]Error:Display Team page result
+ [ 2019-03-21 06:45:53]Error:Display Team page result
+ [ 2019-03-21 06:46:27]Error:Display Team page result
+ [ 2019-03-21 06:47:45]Error:Display Team page result
+ [ 2019-03-21 06:47:47]Error:Display Team page result
+ [ 2019-03-21 06:50:03]Error:Display Team page result
+ [ 2019-03-21 06:50:07]Error:Display Team page result
+ [ 2019-03-21 06:51:22]Error:Display Team page result
+ [ 2019-03-21 06:51:40]Error:Display Team page result
+ [ 2019-03-21 06:52:04]Error:Display Team page result
+ [ 2019-03-21 06:52:07]Error:Display Team page result
+ [ 2019-03-21 06:52:31]Error:Display Team page result
+ [ 2019-03-21 06:56:35]Error:welcome to Schedule page
+ [ 2019-03-21 06:56:35]Error:Display Schedule rseult
+ [ 2019-03-21 06:56:36]Error:Session Team ID : 401
+ [ 2019-03-21 06:56:36]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:02:55]Error:Session Team ID : 401
+ [ 2019-03-21 07:02:55]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:03:05]Error:Session Team ID : 401
+ [ 2019-03-21 07:03:05]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:03:05]Error:Session Team ID : 401
+ [ 2019-03-21 07:03:05]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:03:33]Error:Session Team ID : 401
+ [ 2019-03-21 07:03:33]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:03:40]Error:Session Team ID : 401
+ [ 2019-03-21 07:03:40]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:04:01]Error:Session Team ID : 401
+ [ 2019-03-21 07:04:01]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:04:18]Error:Session Team ID : 401
+ [ 2019-03-21 07:04:18]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:04:24]Error:Session Team ID : 401
+ [ 2019-03-21 07:04:24]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:04:33]Error:Session Team ID : 401
+ [ 2019-03-21 07:04:33]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:04:49]Error:Session Team ID : 401
+ [ 2019-03-21 07:04:49]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:04:57]Error:Session Team ID : 401
+ [ 2019-03-21 07:04:57]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:06:13]Error:Session Team ID : 401
+ [ 2019-03-21 07:06:13]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:06:27]Error:Session Team ID : 401
+ [ 2019-03-21 07:06:27]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:06:27]Error:Session Team ID : 401
+ [ 2019-03-21 07:06:27]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:06:48]Error:Session Team ID : 401
+ [ 2019-03-21 07:06:48]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:10:35]Error:Session Team ID : 401
+ [ 2019-03-21 07:10:35]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:10:40]Error:Session Team ID : 401
+ [ 2019-03-21 07:10:40]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:10:56]Error:Session Team ID : 401
+ [ 2019-03-21 07:10:56]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:10:59]Error:Session Team ID : 401
+ [ 2019-03-21 07:10:59]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:11:51]Error:Session Team ID : 401
+ [ 2019-03-21 07:11:51]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:11:53]Error:Session Team ID : 401
+ [ 2019-03-21 07:11:53]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:12:15]Error:Session Team ID : 401
+ [ 2019-03-21 07:12:15]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:12:17]Error:Session Team ID : 401
+ [ 2019-03-21 07:12:17]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:12:17]Error:Session Team ID : 401
+ [ 2019-03-21 07:12:17]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:13:24]Error:Session Team ID : 401
+ [ 2019-03-21 07:13:24]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:13:24]Error:Session Team ID : 401
+ [ 2019-03-21 07:13:24]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:18:43]Error:Session Team ID : 401
+ [ 2019-03-21 07:18:43]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:18:45]Error:Session Team ID : 401
+ [ 2019-03-21 07:18:45]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:18:45]Error:Session Team ID : 401
+ [ 2019-03-21 07:18:45]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:19:18]Error:Session Team ID : 401
+ [ 2019-03-21 07:19:18]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:19:18]Error:Session Team ID : 401
+ [ 2019-03-21 07:19:18]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:21:28]Error:Session Team ID : 401
+ [ 2019-03-21 07:21:28]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:21:30]Error:Session Team ID : 401
+ [ 2019-03-21 07:21:30]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:22:00]Error:Session Team ID : 401
+ [ 2019-03-21 07:22:00]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:22:03]Error:Session Team ID : 401
+ [ 2019-03-21 07:22:03]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:22:23]Error:Session Team ID : 401
+ [ 2019-03-21 07:22:23]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:22:25]Error:Session Team ID : 401
+ [ 2019-03-21 07:22:25]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:23:23]Error:Logged in successfully
+ [ 2019-03-21 07:23:23]Error:Session Team ID : 401
+ [ 2019-03-21 07:23:23]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:23:26]Error:Session Team ID : 401
+ [ 2019-03-21 07:23:26]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:24:00]Error:Session Team ID : 401
+ [ 2019-03-21 07:24:00]Error:Session Username : rcbadmin
+ [ 2019-03-21 07:24:01]Error:Session Team ID : 401
+ [ 2019-03-21 07:24:01]Error:Session Username : rcbadmin
+ [ 2019-03-21 10:20:30]Error:Logged in successfully
+ [ 2019-03-21 10:20:30]Error:Session Team ID : 401
+ [ 2019-03-21 10:20:30]Error:Session Username : rcbadmin
+ [ 2019-03-21 10:29:23]Error:Session Team ID : 401
+ [ 2019-03-21 10:29:23]Error:Session Username : rcbadmin
+ [ 2019-03-21 10:29:52]Error:Session Team ID : 401
+ [ 2019-03-21 10:29:52]Error:Session Username : rcbadmin
+ [ 2019-03-21 10:31:46]Error:Session Team ID : 401
+ [ 2019-03-21 10:31:46]Error:Session Username : rcbadmin
+ [ 2019-03-21 10:31:48]Error:Session Team ID : 401
+ [ 2019-03-21 10:31:48]Error:Session Username : rcbadmin
+ [ 2019-03-21 10:34:20]Error:Session Team ID : 401
+ [ 2019-03-21 10:34:20]Error:Session Username : rcbadmin
+ [ 2019-03-21 10:34:22]Error:Session Team ID : 401
+ [ 2019-03-21 10:34:22]Error:Session Username : rcbadmin
+ [ 2019-03-21 10:34:24]Error:Session Team ID : 401
+ [ 2019-03-21 10:34:24]Error:Session Username : rcbadmin
+ [ 2019-03-21 10:34:40]Error:Session Team ID : 401
+ [ 2019-03-21 10:34:40]Error:Session Username : rcbadmin
+ [ 2019-03-21 10:41:23]Error:Session Team ID : 401
+ [ 2019-03-21 10:41:23]Error:Session Username : rcbadmin
+ [ 2019-03-21 10:42:41]Error:Session Team ID : 401
+ [ 2019-03-21 10:42:41]Error:Session Username : rcbadmin
+ [ 2019-03-21 10:44:00]Error:Session Team ID : 401
+ [ 2019-03-21 10:44:00]Error:Session Username : rcbadmin
+ [ 2019-03-21 10:44:30]Error:Logged in successfully
+ [ 2019-03-21 10:44:30]Error:Session Team ID : 401
+ [ 2019-03-21 10:44:30]Error:Session Username : rcbadmin
+ [ 2019-03-21 10:45:53]Error:Session Team ID : 401
+ [ 2019-03-21 10:45:53]Error:Session Username : rcbadmin
+ [ 2019-03-21 10:46:40]Error:Session Team ID : 401
+ [ 2019-03-21 10:46:40]Error:Session Username : rcbadmin
+ [ 2019-03-21 10:47:11]Error:Session Team ID : 401
+ [ 2019-03-21 10:47:11]Error:Session Username : rcbadmin
+ [ 2019-03-21 10:56:41]Error:Session Team ID : 401
+ [ 2019-03-21 10:56:41]Error:Session Username : rcbadmin
+ [ 2019-03-21 11:01:04]Error:Display Team page result
+ [ 2019-03-21 11:02:11]Error:Display Team page result
+ [ 2019-03-21 11:02:17]Error:Display Team page result
+ [ 2019-03-21 11:04:15]Error:Display Team page result
+ [ 2019-03-21 11:04:17]Error:Display Team page result
+ [ 2019-03-21 11:04:21]Error:Display Team page result
+ [ 2019-03-21 11:05:24]Error:Display Team page result
+ [ 2019-03-21 11:13:08]Error:welcome to Schedule page
+ [ 2019-03-21 11:13:08]Error:Display Schedule rseult
+ [ 2019-03-21 11:13:09]Error:Session Team ID : 401
+ [ 2019-03-21 11:13:09]Error:Session Username : rcbadmin
+ [ 2019-03-21 11:18:35]Error:welcome to Schedule page
+ [ 2019-03-21 11:18:35]Error:Display Schedule rseult
+ [ 2019-03-21 11:20:13]Error:Session Team ID : 401
+ [ 2019-03-21 11:20:13]Error:Session Username : rcbadmin
+ [ 2019-03-21 11:21:56]Error:Session Team ID : 401
+ [ 2019-03-21 11:21:56]Error:Session Username : rcbadmin
+ [ 2019-03-21 11:22:30]Error:Session Team ID : 401
+ [ 2019-03-21 11:22:30]Error:Session Username : rcbadmin
+ [ 2019-03-21 11:25:34]Error:Session Team ID : 401
+ [ 2019-03-21 11:25:34]Error:Session Username : rcbadmin
+ [ 2019-03-21 11:26:11]Error:Session Team ID : 401
+ [ 2019-03-21 11:26:11]Error:Session Username : rcbadmin
+ [ 2019-03-21 11:28:30]Error:Session Team ID : 401
+ [ 2019-03-21 11:28:30]Error:Session Username : rcbadmin
+ [ 2019-03-21 11:28:33]Error:Session Team ID : 401
+ [ 2019-03-21 11:28:33]Error:Session Username : rcbadmin
+ [ 2019-03-21 11:31:40]Error:Session Team ID : 401
+ [ 2019-03-21 11:31:40]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:00:02]Error:Session Team ID : 401
+ [ 2019-03-21 12:00:02]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:08:55]Error:Session Team ID : 401
+ [ 2019-03-21 12:08:55]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:08:57]Error:Session Team ID : 401
+ [ 2019-03-21 12:08:57]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:09:00]Error:Session Team ID : 401
+ [ 2019-03-21 12:09:00]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:09:27]Error:Logged in successfully
+ [ 2019-03-21 12:09:27]Error:Session Team ID : 401
+ [ 2019-03-21 12:09:27]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:09:35]Error:Session Team ID : 401
+ [ 2019-03-21 12:09:35]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:10:36]Error:Session Team ID : 401
+ [ 2019-03-21 12:10:36]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:15:28]Error:Session Team ID : 401
+ [ 2019-03-21 12:15:28]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:15:28]Error:Session Team ID : 401
+ [ 2019-03-21 12:15:28]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:15:39]Error:Session Team ID : 401
+ [ 2019-03-21 12:15:39]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:15:39]Error:Session Team ID : 401
+ [ 2019-03-21 12:15:39]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:15:48]Error:Session Team ID : 401
+ [ 2019-03-21 12:15:48]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:15:48]Error:Session Team ID : 401
+ [ 2019-03-21 12:15:48]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:16:18]Error:Session Team ID : 401
+ [ 2019-03-21 12:16:18]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:16:18]Error:Session Team ID : 401
+ [ 2019-03-21 12:16:18]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:16:26]Error:Session Team ID : 401
+ [ 2019-03-21 12:16:26]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:16:26]Error:Session Team ID : 401
+ [ 2019-03-21 12:16:26]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:34:27]Error:Session Team ID : 401
+ [ 2019-03-21 12:34:27]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:34:35]Error:Session Team ID : 401
+ [ 2019-03-21 12:34:35]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:35:04]Error:Session Team ID : 401
+ [ 2019-03-21 12:35:04]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:35:04]Error:Session Team ID : 401
+ [ 2019-03-21 12:35:04]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:35:52]Error:Session Team ID : 401
+ [ 2019-03-21 12:35:52]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:35:52]Error:Session Team ID : 401
+ [ 2019-03-21 12:35:52]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:36:06]Error:Session Team ID : 401
+ [ 2019-03-21 12:36:06]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:36:06]Error:Session Team ID : 401
+ [ 2019-03-21 12:36:06]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:37:22]Error:Session Team ID : 401
+ [ 2019-03-21 12:37:22]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:37:22]Error:Session Team ID : 401
+ [ 2019-03-21 12:37:22]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:37:55]Error:Session Team ID : 401
+ [ 2019-03-21 12:37:55]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:37:55]Error:Session Team ID : 401
+ [ 2019-03-21 12:37:55]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:41:41]Error:Session Team ID : 401
+ [ 2019-03-21 12:41:41]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:41:57]Error:Session Team ID : 401
+ [ 2019-03-21 12:41:57]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:41:57]Error:Session Team ID : 401
+ [ 2019-03-21 12:41:57]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:42:13]Error:Session Team ID : 401
+ [ 2019-03-21 12:42:13]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:42:13]Error:Session Team ID : 401
+ [ 2019-03-21 12:42:13]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:42:55]Error:Session Team ID : 401
+ [ 2019-03-21 12:42:55]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:42:55]Error:Session Team ID : 401
+ [ 2019-03-21 12:42:55]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:44:13]Error:Session Team ID : 401
+ [ 2019-03-21 12:44:13]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:44:19]Error:Session Team ID : 401
+ [ 2019-03-21 12:44:19]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:44:20]Error:Session Team ID : 401
+ [ 2019-03-21 12:44:20]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:45:50]Error:Session Team ID : 401
+ [ 2019-03-21 12:45:50]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:45:55]Error:Session Team ID : 401
+ [ 2019-03-21 12:45:55]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:46:12]Error:Session Team ID : 401
+ [ 2019-03-21 12:46:12]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:47:56]Error:Session Team ID : 401
+ [ 2019-03-21 12:47:56]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:48:04]Error:Session Team ID : 401
+ [ 2019-03-21 12:48:04]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:54:13]Error:Session Team ID : 401
+ [ 2019-03-21 12:54:13]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:54:17]Error:Session Team ID : 401
+ [ 2019-03-21 12:54:17]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:54:44]Error:Session Team ID : 401
+ [ 2019-03-21 12:54:44]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:54:52]Error:Session Team ID : 401
+ [ 2019-03-21 12:54:52]Error:Session Username : rcbadmin
+ [ 2019-03-21 12:54:52]Error:Session Team ID : 401
+ [ 2019-03-21 12:54:52]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:00:10]Error:Session Team ID : 401
+ [ 2019-03-21 13:00:10]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:00:18]Error:Session Team ID : 401
+ [ 2019-03-21 13:00:18]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:00:18]Error:Session Team ID : 401
+ [ 2019-03-21 13:00:18]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:02:15]Error:Session Team ID : 401
+ [ 2019-03-21 13:02:15]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:02:16]Error:Session Team ID : 401
+ [ 2019-03-21 13:02:16]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:03:12]Error:Session Team ID : 401
+ [ 2019-03-21 13:03:12]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:03:18]Error:Session Team ID : 401
+ [ 2019-03-21 13:03:18]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:03:18]Error:Session Team ID : 401
+ [ 2019-03-21 13:03:18]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:04:46]Error:Session Team ID : 401
+ [ 2019-03-21 13:04:46]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:04:53]Error:Session Team ID : 401
+ [ 2019-03-21 13:04:53]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:04:53]Error:Session Team ID : 401
+ [ 2019-03-21 13:04:53]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:05:23]Error:Session Team ID : 401
+ [ 2019-03-21 13:05:23]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:05:30]Error:Session Team ID : 401
+ [ 2019-03-21 13:05:30]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:05:30]Error:Session Team ID : 401
+ [ 2019-03-21 13:05:30]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:05:45]Error:Session Team ID : 401
+ [ 2019-03-21 13:05:45]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:05:45]Error:Session Team ID : 401
+ [ 2019-03-21 13:05:45]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:11:08]Error:Session Team ID : 401
+ [ 2019-03-21 13:11:08]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:11:35]Error:Session Team ID : 401
+ [ 2019-03-21 13:11:35]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:11:35]Error:Session Team ID : 401
+ [ 2019-03-21 13:11:35]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:12:00]Error:Session Team ID : 401
+ [ 2019-03-21 13:12:00]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:12:00]Error:Session Team ID : 401
+ [ 2019-03-21 13:12:00]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:13:36]Error:Session Team ID : 401
+ [ 2019-03-21 13:13:36]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:13:42]Error:Session Team ID : 401
+ [ 2019-03-21 13:13:42]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:13:42]Error:Session Team ID : 401
+ [ 2019-03-21 13:13:42]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:14:35]Error:Session Team ID : 401
+ [ 2019-03-21 13:14:35]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:14:36]Error:Session Team ID : 401
+ [ 2019-03-21 13:14:36]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:14:46]Error:Session Team ID : 401
+ [ 2019-03-21 13:14:46]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:14:46]Error:Session Team ID : 401
+ [ 2019-03-21 13:14:46]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:18:24]Error:welcome to Schedule page
+ [ 2019-03-21 13:18:24]Error:Display Schedule rseult
+ [ 2019-03-21 13:18:27]Error:Session Team ID : 401
+ [ 2019-03-21 13:18:27]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:18:29]Error:Display Team page result
+ [ 2019-03-21 13:18:46]Error:welcome to Schedule page
+ [ 2019-03-21 13:18:46]Error:Display Schedule rseult
+ [ 2019-03-21 13:18:52]Error:Session Team ID : 401
+ [ 2019-03-21 13:18:52]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:19:20]Error:Session Team ID : 401
+ [ 2019-03-21 13:19:20]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:19:20]Error:Session Team ID : 401
+ [ 2019-03-21 13:19:20]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:50:21]Error:Session Team ID : 401
+ [ 2019-03-21 13:50:21]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:50:28]Error:Session Team ID : 401
+ [ 2019-03-21 13:50:28]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:50:37]Error:Session Team ID : 401
+ [ 2019-03-21 13:50:37]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:51:13]Error:Session Team ID : 401
+ [ 2019-03-21 13:51:13]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:51:13]Error:Session Team ID : 401
+ [ 2019-03-21 13:51:13]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:51:38]Error:Session Team ID : 401
+ [ 2019-03-21 13:51:38]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:52:10]Error:Session Team ID : 401
+ [ 2019-03-21 13:52:10]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:52:28]Error:Session Team ID : 401
+ [ 2019-03-21 13:52:28]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:52:58]Error:Session Team ID : 401
+ [ 2019-03-21 13:52:58]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:56:27]Error:Session Team ID : 401
+ [ 2019-03-21 13:56:27]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:56:36]Error:Session Team ID : 401
+ [ 2019-03-21 13:56:36]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:56:36]Error:Session Team ID : 401
+ [ 2019-03-21 13:56:36]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:56:47]Error:Session Team ID : 401
+ [ 2019-03-21 13:56:47]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:56:47]Error:Session Team ID : 401
+ [ 2019-03-21 13:56:47]Error:Session Username : rcbadmin
+ [ 2019-03-21 13:59:55]Error:Session Team ID : 401
+ [ 2019-03-21 13:59:55]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:02:32]Error:Session Team ID : 401
+ [ 2019-03-21 14:02:32]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:03:05]Error:Session Team ID : 401
+ [ 2019-03-21 14:03:05]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:03:25]Error:Session Team ID : 401
+ [ 2019-03-21 14:03:25]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:03:58]Error:Session Team ID : 401
+ [ 2019-03-21 14:03:58]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:04:06]Error:Session Team ID : 401
+ [ 2019-03-21 14:04:06]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:08:12]Error:Logged in successfully
+ [ 2019-03-21 14:08:12]Error:Session Team ID : 401
+ [ 2019-03-21 14:08:12]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:09:48]Error:Session Team ID : 401
+ [ 2019-03-21 14:09:48]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:09:48]Error:Session Team ID : 401
+ [ 2019-03-21 14:09:48]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:10:02]Error:Session Team ID : 401
+ [ 2019-03-21 14:10:02]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:10:02]Error:Session Team ID : 401
+ [ 2019-03-21 14:10:02]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:10:21]Error:Session Team ID : 401
+ [ 2019-03-21 14:10:21]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:10:48]Error:Session Team ID : 401
+ [ 2019-03-21 14:10:48]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:11:04]Error:Session Team ID : 401
+ [ 2019-03-21 14:11:04]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:11:04]Error:Session Team ID : 401
+ [ 2019-03-21 14:11:04]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:11:10]Error:Session Team ID : 401
+ [ 2019-03-21 14:11:10]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:11:10]Error:Session Team ID : 401
+ [ 2019-03-21 14:11:10]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:11:53]Error:Session Team ID : 401
+ [ 2019-03-21 14:11:53]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:13:50]Error:Session Team ID : 401
+ [ 2019-03-21 14:13:50]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:14:05]Error:Session Team ID : 401
+ [ 2019-03-21 14:14:05]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:15:38]Error:Session Team ID : 401
+ [ 2019-03-21 14:15:38]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:15:53]Error:Session Team ID : 401
+ [ 2019-03-21 14:15:53]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:19:12]Error:Session Team ID : 401
+ [ 2019-03-21 14:19:12]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:19:19]Error:Session Team ID : 401
+ [ 2019-03-21 14:19:19]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:19:19]Error:Session Team ID : 401
+ [ 2019-03-21 14:19:19]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:19:28]Error:Session Team ID : 401
+ [ 2019-03-21 14:19:28]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:19:28]Error:Session Team ID : 401
+ [ 2019-03-21 14:19:28]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:19:50]Error:Session Team ID : 401
+ [ 2019-03-21 14:19:50]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:21:31]Error:Session Team ID : 401
+ [ 2019-03-21 14:21:31]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:21:50]Error:Session Team ID : 401
+ [ 2019-03-21 14:21:50]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:26:27]Error:Session Team ID : 401
+ [ 2019-03-21 14:26:27]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:26:41]Error:Session Team ID : 401
+ [ 2019-03-21 14:26:41]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:27:39]Error:Session Team ID : 401
+ [ 2019-03-21 14:27:39]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:27:43]Error:Session Team ID : 401
+ [ 2019-03-21 14:27:43]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:29:42]Error:Session Team ID : 401
+ [ 2019-03-21 14:29:42]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:29:42]Error:Session Team ID : 401
+ [ 2019-03-21 14:29:42]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:29:48]Error:Session Team ID : 401
+ [ 2019-03-21 14:29:48]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:29:48]Error:Session Team ID : 401
+ [ 2019-03-21 14:29:48]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:29:53]Error:Session Team ID : 401
+ [ 2019-03-21 14:29:53]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:29:53]Error:Session Team ID : 401
+ [ 2019-03-21 14:29:53]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:29:59]Error:Session Team ID : 401
+ [ 2019-03-21 14:29:59]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:29:59]Error:Session Team ID : 401
+ [ 2019-03-21 14:29:59]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:30:05]Error:Session Team ID : 401
+ [ 2019-03-21 14:30:05]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:30:05]Error:Session Team ID : 401
+ [ 2019-03-21 14:30:05]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:34:37]Error:Session Team ID : 401
+ [ 2019-03-21 14:34:37]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:34:56]Error:Session Team ID : 401
+ [ 2019-03-21 14:34:56]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:34:56]Error:Session Team ID : 401
+ [ 2019-03-21 14:34:56]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:35:30]Error:Session Team ID : 401
+ [ 2019-03-21 14:35:30]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:35:31]Error:Session Team ID : 401
+ [ 2019-03-21 14:35:31]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:35:38]Error:Session Team ID : 401
+ [ 2019-03-21 14:35:38]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:35:38]Error:Session Team ID : 401
+ [ 2019-03-21 14:35:38]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:35:50]Error:Session Team ID : 401
+ [ 2019-03-21 14:35:50]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:35:50]Error:Session Team ID : 401
+ [ 2019-03-21 14:35:50]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:35:55]Error:Session Team ID : 401
+ [ 2019-03-21 14:35:55]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:47:12]Error:Session Team ID : 401
+ [ 2019-03-21 14:47:12]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:47:37]Error:Session Team ID : 401
+ [ 2019-03-21 14:47:37]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:47:37]Error:Session Team ID : 401
+ [ 2019-03-21 14:47:37]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:47:48]Error:Session Team ID : 401
+ [ 2019-03-21 14:47:48]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:47:48]Error:Session Team ID : 401
+ [ 2019-03-21 14:47:48]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:48:28]Error:Session Team ID : 401
+ [ 2019-03-21 14:48:28]Error:Session Username : rcbadmin
+ [ 2019-03-21 14:48:28]Error:Session Team ID : 401
+ [ 2019-03-21 14:48:28]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:06:47]Error:Session Team ID : 401
+ [ 2019-03-21 15:06:47]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:07:23]Error:Session Team ID : 401
+ [ 2019-03-21 15:07:23]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:07:24]Error:Session Team ID : 401
+ [ 2019-03-21 15:07:24]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:09:41]Error:Session Team ID : 401
+ [ 2019-03-21 15:09:41]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:10:02]Error:Session Team ID : 401
+ [ 2019-03-21 15:10:02]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:36:14]Error:Session Team ID : 401
+ [ 2019-03-21 15:36:14]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:36:37]Error:Session Team ID : 401
+ [ 2019-03-21 15:36:37]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:40:07]Error:Session Team ID : 401
+ [ 2019-03-21 15:40:07]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:42:38]Error:Session Team ID : 401
+ [ 2019-03-21 15:42:38]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:42:38]Error:Session Team ID : 401
+ [ 2019-03-21 15:42:38]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:42:57]Error:Session Team ID : 401
+ [ 2019-03-21 15:42:57]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:43:12]Error:Session Team ID : 401
+ [ 2019-03-21 15:43:12]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:43:21]Error:Session Team ID : 401
+ [ 2019-03-21 15:43:21]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:43:21]Error:Session Team ID : 401
+ [ 2019-03-21 15:43:21]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:43:53]Error:Session Team ID : 401
+ [ 2019-03-21 15:43:53]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:43:53]Error:Session Team ID : 401
+ [ 2019-03-21 15:43:53]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:44:58]Error:Session Team ID : 401
+ [ 2019-03-21 15:44:58]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:44:58]Error:Session Team ID : 401
+ [ 2019-03-21 15:44:58]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:46:01]Error:Session Team ID : 401
+ [ 2019-03-21 15:46:01]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:46:01]Error:Session Team ID : 401
+ [ 2019-03-21 15:46:01]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:47:52]Error:Session Team ID : 401
+ [ 2019-03-21 15:47:52]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:47:52]Error:Session Team ID : 401
+ [ 2019-03-21 15:47:52]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:48:43]Error:Session Team ID : 401
+ [ 2019-03-21 15:48:43]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:48:44]Error:Session Team ID : 401
+ [ 2019-03-21 15:48:44]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:53:41]Error:Session Team ID : 401
+ [ 2019-03-21 15:53:41]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:53:41]Error:Session Team ID : 401
+ [ 2019-03-21 15:53:41]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:53:49]Error:Session Team ID : 401
+ [ 2019-03-21 15:53:49]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:53:52]Error:Session Team ID : 401
+ [ 2019-03-21 15:53:52]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:57:27]Error:Session Team ID : 401
+ [ 2019-03-21 15:57:27]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:57:30]Error:Session Team ID : 401
+ [ 2019-03-21 15:57:30]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:57:39]Error:Session Team ID : 401
+ [ 2019-03-21 15:57:39]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:57:39]Error:Session Team ID : 401
+ [ 2019-03-21 15:57:39]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:58:28]Error:Session Team ID : 401
+ [ 2019-03-21 15:58:28]Error:Session Username : rcbadmin
+ [ 2019-03-21 15:58:28]Error:Session Team ID : 401
+ [ 2019-03-21 15:58:28]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:08:28]Error:Session Team ID : 401
+ [ 2019-03-21 16:08:28]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:14:19]Error:Session Team ID : 401
+ [ 2019-03-21 16:14:19]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:14:37]Error:Session Team ID : 401
+ [ 2019-03-21 16:14:37]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:18:42]Error:Session Team ID : 401
+ [ 2019-03-21 16:18:42]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:18:52]Error:Session Team ID : 401
+ [ 2019-03-21 16:18:52]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:21:14]Error:Session Team ID : 401
+ [ 2019-03-21 16:21:14]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:21:19]Error:Session Team ID : 401
+ [ 2019-03-21 16:21:19]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:30:56]Error:Session Team ID : 401
+ [ 2019-03-21 16:30:56]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:30:56]Error:Session Team ID : 401
+ [ 2019-03-21 16:30:56]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:31:03]Error:Session Team ID : 401
+ [ 2019-03-21 16:31:03]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:31:03]Error:Session Team ID : 401
+ [ 2019-03-21 16:31:03]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:31:10]Error:Session Team ID : 401
+ [ 2019-03-21 16:31:10]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:31:10]Error:Session Team ID : 401
+ [ 2019-03-21 16:31:10]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:31:17]Error:Session Team ID : 401
+ [ 2019-03-21 16:31:17]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:31:23]Error:Session Team ID : 401
+ [ 2019-03-21 16:31:23]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:31:32]Error:Session Team ID : 401
+ [ 2019-03-21 16:31:32]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:31:38]Error:Session Team ID : 401
+ [ 2019-03-21 16:31:38]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:35:55]Error:Session Team ID : 401
+ [ 2019-03-21 16:35:55]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:36:40]Error:Session Team ID : 401
+ [ 2019-03-21 16:36:40]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:36:40]Error:Session Team ID : 401
+ [ 2019-03-21 16:36:40]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:37:06]Error:Session Team ID : 401
+ [ 2019-03-21 16:37:06]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:37:06]Error:Session Team ID : 401
+ [ 2019-03-21 16:37:06]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:38:27]Error:Session Team ID : 401
+ [ 2019-03-21 16:38:27]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:39:19]Error:Session Team ID : 401
+ [ 2019-03-21 16:39:19]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:40:09]Error:Session Team ID : 401
+ [ 2019-03-21 16:40:09]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:40:41]Error:Session Team ID : 401
+ [ 2019-03-21 16:40:41]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:40:41]Error:Session Team ID : 401
+ [ 2019-03-21 16:40:41]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:40:48]Error:Session Team ID : 401
+ [ 2019-03-21 16:40:48]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:40:48]Error:Session Team ID : 401
+ [ 2019-03-21 16:40:48]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:40:56]Error:Session Team ID : 401
+ [ 2019-03-21 16:40:56]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:41:13]Error:Session Team ID : 401
+ [ 2019-03-21 16:41:13]Error:Session Username : rcbadmin
+ [ 2019-03-21 16:41:13]Error:Session Team ID : 401
+ [ 2019-03-21 16:41:13]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:01:23]Error:Session Team ID : 401
+ [ 2019-03-21 17:01:23]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:03:59]Error:Session Team ID : 401
+ [ 2019-03-21 17:03:59]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:06:40]Error:Logged in successfully
+ [ 2019-03-21 17:06:40]Error:Session Team ID : 401
+ [ 2019-03-21 17:06:40]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:08:33]Error:Session Team ID : 401
+ [ 2019-03-21 17:08:33]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:09:16]Error:Logged in successfully
+ [ 2019-03-21 17:09:16]Error:Session Team ID : 401
+ [ 2019-03-21 17:09:16]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:09:44]Error:User Registered successfully
+ [ 2019-03-21 17:10:08]Error:Logged in successfully
+ [ 2019-03-21 17:10:08]Error:Display Team page result
+ [ 2019-03-21 17:10:12]Error:welcome to Schedule page
+ [ 2019-03-21 17:10:12]Error:Display Schedule rseult
+ [ 2019-03-21 17:10:38]Error:Display Team page result
+ [ 2019-03-21 17:10:56]Error:Logged in successfully
+ [ 2019-03-21 17:10:56]Error:Session Team ID : 401
+ [ 2019-03-21 17:10:56]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:12:00]Error:Session Team ID : 401
+ [ 2019-03-21 17:12:00]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:12:03]Error:Display Team page result
+ [ 2019-03-21 17:12:06]Error:welcome to Schedule page
+ [ 2019-03-21 17:12:06]Error:Display Schedule rseult
+ [ 2019-03-21 17:12:11]Error:Session Team ID : 401
+ [ 2019-03-21 17:12:11]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:12:55]Error:Session Team ID : 401
+ [ 2019-03-21 17:12:55]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:12:57]Error:welcome to Schedule page
+ [ 2019-03-21 17:12:57]Error:Display Schedule rseult
+ [ 2019-03-21 17:12:59]Error:Session Team ID : 401
+ [ 2019-03-21 17:12:59]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:15:10]Error:Session Team ID : 401
+ [ 2019-03-21 17:15:10]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:15:11]Error:Session Team ID : 401
+ [ 2019-03-21 17:15:11]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:15:53]Error:Logged in successfully
+ [ 2019-03-21 17:15:53]Error:Session Team ID : 401
+ [ 2019-03-21 17:15:53]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:16:51]Error:Session Team ID : 401
+ [ 2019-03-21 17:16:51]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:16:53]Error:Session Team ID : 401
+ [ 2019-03-21 17:16:53]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:17:33]Error:Session Team ID : 401
+ [ 2019-03-21 17:17:33]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:17:36]Error:Session Team ID : 401
+ [ 2019-03-21 17:17:36]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:17:44]Error:Session Team ID : 401
+ [ 2019-03-21 17:17:44]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:18:18]Error:Logged in successfully
+ [ 2019-03-21 17:18:18]Error:Session Team ID : 401
+ [ 2019-03-21 17:18:18]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:50:45]Error:Logged in successfully
+ [ 2019-03-21 17:50:45]Error:Session Team ID : 401
+ [ 2019-03-21 17:50:45]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:52:36]Error:Session Team ID : 401
+ [ 2019-03-21 17:52:36]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:52:56]Error:Session Team ID : 401
+ [ 2019-03-21 17:52:56]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:53:18]Error:Session Team ID : 401
+ [ 2019-03-21 17:53:18]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:55:30]Error:Session Team ID : 401
+ [ 2019-03-21 17:55:30]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:56:30]Error:Session Team ID : 401
+ [ 2019-03-21 17:56:30]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:56:32]Error:Session Team ID : 401
+ [ 2019-03-21 17:56:32]Error:Session Username : rcbadmin
+ [ 2019-03-21 17:56:38]Error:Session Team ID : 401
+ [ 2019-03-21 17:56:38]Error:Session Username : rcbadmin
+ [ 2019-03-21 21:07:31]Error:Logged in successfully
+ [ 2019-03-21 21:07:31]Error:Session Team ID : 401
+ [ 2019-03-21 21:07:31]Error:Session Username : rcbadmin
+ [ 2019-03-21 21:07:51]Error:Session Team ID : 401
+ [ 2019-03-21 21:07:51]Error:Session Username : rcbadmin
+ [ 2019-03-21 21:09:04]Error:Session Team ID : 401
+ [ 2019-03-21 21:09:04]Error:Session Username : rcbadmin
+ [ 2019-03-21 21:10:14]Error:Session Team ID : 401
+ [ 2019-03-21 21:10:14]Error:Session Username : rcbadmin
+ [ 2019-03-21 21:12:17]Error:Session Team ID : 401
+ [ 2019-03-21 21:12:17]Error:Session Username : rcbadmin
+ [ 2019-03-21 21:49:52]Error:Session Team ID : 401
+ [ 2019-03-21 21:49:52]Error:Session Username : rcbadmin
+ [ 2019-03-21 21:50:00]Error:Session Team ID : 401
+ [ 2019-03-21 21:50:00]Error:Session Username : rcbadmin
+ [ 2019-03-21 21:50:34]Error:Session Team ID : 401
+ [ 2019-03-21 21:50:34]Error:Session Username : rcbadmin
+ [ 2019-03-21 21:50:36]Error:Session Team ID : 401
+ [ 2019-03-21 21:50:36]Error:Session Username : rcbadmin
+ [ 2019-03-21 21:50:58]Error:Session Team ID : 401
+ [ 2019-03-21 21:50:58]Error:Session Username : rcbadmin
+ [ 2019-03-21 21:51:47]Error:Session Team ID : 401
+ [ 2019-03-21 21:51:47]Error:Session Username : rcbadmin
+ [ 2019-03-21 21:51:48]Error:Session Team ID : 401
+ [ 2019-03-21 21:51:48]Error:Session Username : rcbadmin
+ [ 2019-03-21 21:52:00]Error:Session Team ID : 401
+ [ 2019-03-21 21:52:00]Error:Session Username : rcbadmin
+ [ 2019-03-21 21:55:45]Error:Session Team ID : 401
+ [ 2019-03-21 21:55:45]Error:Session Username : rcbadmin
+ [ 2019-03-21 21:56:39]Error:Session Team ID : 401
+ [ 2019-03-21 21:56:39]Error:Session Username : rcbadmin
+ [ 2019-03-21 21:56:45]Error:Session Team ID : 401
+ [ 2019-03-21 21:56:45]Error:Session Username : rcbadmin
+ [ 2019-03-21 21:56:47]Error:Session Team ID : 401
+ [ 2019-03-21 21:56:47]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:00:02]Error:Session Team ID : 401
+ [ 2019-03-21 22:00:02]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:00:28]Error:Session Team ID : 401
+ [ 2019-03-21 22:00:28]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:01:29]Error:Session Team ID : 401
+ [ 2019-03-21 22:01:29]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:01:31]Error:Session Team ID : 401
+ [ 2019-03-21 22:01:31]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:02:33]Error:Session Team ID : 401
+ [ 2019-03-21 22:02:33]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:05:54]Error:Session Team ID : 401
+ [ 2019-03-21 22:05:54]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:11:15]Error:Logged in successfully
+ [ 2019-03-21 22:11:15]Error:Session Team ID : 401
+ [ 2019-03-21 22:11:15]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:11:46]Error:Session Team ID : 401
+ [ 2019-03-21 22:11:46]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:11:58]Error:Session Team ID : 401
+ [ 2019-03-21 22:11:58]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:12:11]Error:Session Team ID : 401
+ [ 2019-03-21 22:12:11]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:12:54]Error:Session Team ID : 401
+ [ 2019-03-21 22:12:54]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:15:14]Error:Session Team ID : 401
+ [ 2019-03-21 22:15:14]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:15:22]Error:Session Team ID : 401
+ [ 2019-03-21 22:15:22]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:16:00]Error:Logged in successfully
+ [ 2019-03-21 22:16:00]Error:Session Team ID : 401
+ [ 2019-03-21 22:16:00]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:16:57]Error:Session Team ID : 401
+ [ 2019-03-21 22:16:57]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:20:43]Error:Session Team ID : 401
+ [ 2019-03-21 22:20:43]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:21:21]Error:Session Team ID : 401
+ [ 2019-03-21 22:21:21]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:21:26]Error:Session Team ID : 401
+ [ 2019-03-21 22:21:26]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:21:55]Error:Logged in successfully
+ [ 2019-03-21 22:21:55]Error:Session Team ID : 401
+ [ 2019-03-21 22:21:55]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:22:28]Error:Session Team ID : 401
+ [ 2019-03-21 22:22:28]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:24:54]Error:Session Team ID : 401
+ [ 2019-03-21 22:24:54]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:25:44]Error:Session Team ID : 401
+ [ 2019-03-21 22:25:44]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:28:36]Error:Session Team ID : 401
+ [ 2019-03-21 22:28:36]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:29:24]Error:Session Team ID : 401
+ [ 2019-03-21 22:29:24]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:29:27]Error:Session Team ID : 401
+ [ 2019-03-21 22:29:27]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:29:40]Error:Session Team ID : 401
+ [ 2019-03-21 22:29:40]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:30:36]Error:Logged in successfully
+ [ 2019-03-21 22:30:36]Error:Session Team ID : 401
+ [ 2019-03-21 22:30:36]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:31:33]Error:Session Team ID : 401
+ [ 2019-03-21 22:31:33]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:33:26]Error:Session Team ID : 401
+ [ 2019-03-21 22:33:26]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:33:28]Error:Session Team ID : 401
+ [ 2019-03-21 22:33:28]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:34:54]Error:Session Team ID : 401
+ [ 2019-03-21 22:34:54]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:35:50]Error:Session Team ID : 401
+ [ 2019-03-21 22:35:50]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:35:56]Error:Session Team ID : 401
+ [ 2019-03-21 22:35:56]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:36:48]Error:Logged in successfully
+ [ 2019-03-21 22:36:48]Error:Session Team ID : 401
+ [ 2019-03-21 22:36:48]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:38:15]Error:Session Team ID : 401
+ [ 2019-03-21 22:38:15]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:39:06]Error:Session Team ID : 401
+ [ 2019-03-21 22:39:06]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:39:09]Error:Session Team ID : 401
+ [ 2019-03-21 22:39:09]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:49:03]Error:Session Team ID : 401
+ [ 2019-03-21 22:49:03]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:49:09]Error:Session Team ID : 401
+ [ 2019-03-21 22:49:09]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:52:31]Error:Session Team ID : 401
+ [ 2019-03-21 22:52:31]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:52:34]Error:Session Team ID : 401
+ [ 2019-03-21 22:52:34]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:52:36]Error:Session Team ID : 401
+ [ 2019-03-21 22:52:36]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:53:05]Error:Logged in successfully
+ [ 2019-03-21 22:53:05]Error:Session Team ID : 401
+ [ 2019-03-21 22:53:05]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:54:22]Error:Session Team ID : 401
+ [ 2019-03-21 22:54:22]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:54:23]Error:Session Team ID : 401
+ [ 2019-03-21 22:54:23]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:54:25]Error:Session Team ID : 401
+ [ 2019-03-21 22:54:25]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:54:49]Error:Session Team ID : 401
+ [ 2019-03-21 22:54:49]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:54:50]Error:Session Team ID : 401
+ [ 2019-03-21 22:54:50]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:55:23]Error:Logged in successfully
+ [ 2019-03-21 22:55:23]Error:Session Team ID : 401
+ [ 2019-03-21 22:55:23]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:56:31]Error:Session Team ID : 401
+ [ 2019-03-21 22:56:31]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:57:04]Error:Session Team ID : 401
+ [ 2019-03-21 22:57:04]Error:Session Username : rcbadmin
+ [ 2019-03-21 22:57:30]Error:Session Team ID : 401
+ [ 2019-03-21 22:57:30]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:01:11]Error:Session Team ID : 401
+ [ 2019-03-21 23:01:11]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:01:47]Error:Logged in successfully
+ [ 2019-03-21 23:01:47]Error:Session Team ID : 401
+ [ 2019-03-21 23:01:47]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:03:28]Error:Session Team ID : 401
+ [ 2019-03-21 23:03:28]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:03:29]Error:Session Team ID : 401
+ [ 2019-03-21 23:03:29]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:03:58]Error:Logged in successfully
+ [ 2019-03-21 23:03:58]Error:Session Team ID : 401
+ [ 2019-03-21 23:03:58]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:05:33]Error:Session Team ID : 401
+ [ 2019-03-21 23:05:33]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:08:18]Error:Session Team ID : 401
+ [ 2019-03-21 23:08:18]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:08:20]Error:Session Team ID : 401
+ [ 2019-03-21 23:08:20]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:10:12]Error:Session Team ID : 401
+ [ 2019-03-21 23:10:12]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:14:01]Error:Session Team ID : 401
+ [ 2019-03-21 23:14:01]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:15:14]Error:Session Team ID : 401
+ [ 2019-03-21 23:15:14]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:19:50]Error:Session Team ID : 401
+ [ 2019-03-21 23:19:50]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:20:52]Error:Logged in successfully
+ [ 2019-03-21 23:20:52]Error:Session Team ID : 401
+ [ 2019-03-21 23:20:52]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:22:17]Error:Session Team ID : 401
+ [ 2019-03-21 23:22:17]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:23:07]Error:Session Team ID : 401
+ [ 2019-03-21 23:23:07]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:23:15]Error:Session Team ID : 401
+ [ 2019-03-21 23:23:15]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:23:51]Error:Session Team ID : 401
+ [ 2019-03-21 23:23:51]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:24:22]Error:Session Team ID : 401
+ [ 2019-03-21 23:24:22]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:24:41]Error:Session Team ID : 401
+ [ 2019-03-21 23:24:41]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:24:55]Error:Session Team ID : 401
+ [ 2019-03-21 23:24:55]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:25:33]Error:Session Team ID : 401
+ [ 2019-03-21 23:25:33]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:26:23]Error:Session Team ID : 401
+ [ 2019-03-21 23:26:23]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:28:23]Error:Session Team ID : 401
+ [ 2019-03-21 23:28:23]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:29:54]Error:Session Team ID : 401
+ [ 2019-03-21 23:29:54]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:31:45]Error:Session Team ID : 401
+ [ 2019-03-21 23:31:45]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:33:00]Error:Session Team ID : 401
+ [ 2019-03-21 23:33:00]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:33:31]Error:Session Team ID : 401
+ [ 2019-03-21 23:33:31]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:35:35]Error:Session Team ID : 401
+ [ 2019-03-21 23:35:35]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:36:53]Error:Session Team ID : 401
+ [ 2019-03-21 23:36:53]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:37:10]Error:Session Team ID : 401
+ [ 2019-03-21 23:37:10]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:37:24]Error:Session Team ID : 401
+ [ 2019-03-21 23:37:24]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:37:41]Error:Session Team ID : 401
+ [ 2019-03-21 23:37:41]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:37:51]Error:Session Team ID : 401
+ [ 2019-03-21 23:37:51]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:41:16]Error:Session Team ID : 401
+ [ 2019-03-21 23:41:16]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:43:17]Error:Session Team ID : 401
+ [ 2019-03-21 23:43:17]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:43:46]Error:Session Team ID : 401
+ [ 2019-03-21 23:43:46]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:43:49]Error:Session Team ID : 401
+ [ 2019-03-21 23:43:49]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:44:13]Error:Session Team ID : 401
+ [ 2019-03-21 23:44:13]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:44:30]Error:Session Team ID : 401
+ [ 2019-03-21 23:44:30]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:45:19]Error:Session Team ID : 401
+ [ 2019-03-21 23:45:19]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:45:28]Error:Session Team ID : 401
+ [ 2019-03-21 23:45:28]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:45:59]Error:Logged in successfully
+ [ 2019-03-21 23:45:59]Error:Session Team ID : 401
+ [ 2019-03-21 23:45:59]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:48:52]Error:Session Team ID : 401
+ [ 2019-03-21 23:48:52]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:48:53]Error:Session Team ID : 401
+ [ 2019-03-21 23:48:53]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:49:34]Error:Logged in successfully
+ [ 2019-03-21 23:49:34]Error:Session Team ID : 401
+ [ 2019-03-21 23:49:34]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:50:07]Error:Session Team ID : 401
+ [ 2019-03-21 23:50:07]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:53:55]Error:Session Team ID : 401
+ [ 2019-03-21 23:53:55]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:54:53]Error:Session Team ID : 401
+ [ 2019-03-21 23:54:53]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:56:37]Error:Session Team ID : 401
+ [ 2019-03-21 23:56:37]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:56:53]Error:Session Team ID : 401
+ [ 2019-03-21 23:56:53]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:58:09]Error:Logged in successfully
+ [ 2019-03-21 23:58:09]Error:Session Team ID : 401
+ [ 2019-03-21 23:58:09]Error:Session Username : rcbadmin
+ [ 2019-03-21 23:59:57]Error:Session Team ID : 401
+ [ 2019-03-21 23:59:57]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:01:22]Error:Session Team ID : 401
+ [ 2019-03-22 00:01:22]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:01:27]Error:Session Team ID : 401
+ [ 2019-03-22 00:01:27]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:01:54]Error:Session Team ID : 401
+ [ 2019-03-22 00:01:54]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:04:00]Error:Session Team ID : 401
+ [ 2019-03-22 00:04:00]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:04:41]Error:Logged in successfully
+ [ 2019-03-22 00:04:42]Error:Session Team ID : 401
+ [ 2019-03-22 00:04:42]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:05:51]Error:Session Team ID : 401
+ [ 2019-03-22 00:05:51]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:05:59]Error:Session Team ID : 401
+ [ 2019-03-22 00:05:59]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:05:59]Error:Session Team ID : 401
+ [ 2019-03-22 00:05:59]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:06:07]Error:Session Team ID : 401
+ [ 2019-03-22 00:06:07]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:06:19]Error:Session Team ID : 401
+ [ 2019-03-22 00:06:19]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:06:19]Error:Session Team ID : 401
+ [ 2019-03-22 00:06:19]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:06:31]Error:Session Team ID : 401
+ [ 2019-03-22 00:06:31]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:06:31]Error:Session Team ID : 401
+ [ 2019-03-22 00:06:31]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:17:23]Error:Session Team ID : 401
+ [ 2019-03-22 00:17:23]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:17:37]Error:Session Team ID : 401
+ [ 2019-03-22 00:17:37]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:21:57]Error:Session Team ID : 401
+ [ 2019-03-22 00:21:57]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:22:47]Error:Session Team ID : 401
+ [ 2019-03-22 00:22:47]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:26:03]Error:Session Team ID : 401
+ [ 2019-03-22 00:26:03]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:26:05]Error:Session Team ID : 401
+ [ 2019-03-22 00:26:05]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:26:12]Error:Session Team ID : 401
+ [ 2019-03-22 00:26:12]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:26:24]Error:Session Team ID : 401
+ [ 2019-03-22 00:26:24]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:29:02]Error:Logged in successfully
+ [ 2019-03-22 00:29:02]Error:Session Team ID : 401
+ [ 2019-03-22 00:29:02]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:30:06]Error:Session Team ID : 401
+ [ 2019-03-22 00:30:06]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:30:49]Error:Session Team ID : 401
+ [ 2019-03-22 00:30:49]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:31:54]Error:Session Team ID : 401
+ [ 2019-03-22 00:31:54]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:32:18]Error:Session Team ID : 401
+ [ 2019-03-22 00:32:18]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:33:50]Error:Session Team ID : 401
+ [ 2019-03-22 00:33:50]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:33:52]Error:Session Team ID : 401
+ [ 2019-03-22 00:33:52]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:34:57]Error:Session Team ID : 401
+ [ 2019-03-22 00:34:57]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:36:51]Error:Session Team ID : 401
+ [ 2019-03-22 00:36:51]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:37:12]Error:Session Team ID : 401
+ [ 2019-03-22 00:37:12]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:40:23]Error:Session Team ID : 401
+ [ 2019-03-22 00:40:23]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:47:17]Error:Session Team ID : 401
+ [ 2019-03-22 00:47:17]Error:Session Username : rcbadmin
+ [ 2019-03-22 00:50:50]Error:Session Team ID : 401
+ [ 2019-03-22 00:50:50]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:01:14]Error:Session Team ID : 401
+ [ 2019-03-22 01:01:14]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:03:29]Error:Session Team ID : 401
+ [ 2019-03-22 01:03:29]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:06:38]Error:Session Team ID : 401
+ [ 2019-03-22 01:06:38]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:08:23]Error:Session Team ID : 401
+ [ 2019-03-22 01:08:23]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:09:16]Error:Session Team ID : 401
+ [ 2019-03-22 01:09:16]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:09:43]Error:Logged in successfully
+ [ 2019-03-22 01:09:43]Error:Session Team ID : 401
+ [ 2019-03-22 01:09:43]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:12:49]Error:Session Team ID : 401
+ [ 2019-03-22 01:12:49]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:14:32]Error:Session Team ID : 401
+ [ 2019-03-22 01:14:32]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:16:25]Error:Session Team ID : 401
+ [ 2019-03-22 01:16:25]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:18:34]Error:Session Team ID : 401
+ [ 2019-03-22 01:18:34]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:19:07]Error:Session Team ID : 401
+ [ 2019-03-22 01:19:07]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:19:32]Error:Session Team ID : 401
+ [ 2019-03-22 01:19:32]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:20:28]Error:Session Team ID : 401
+ [ 2019-03-22 01:20:28]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:22:04]Error:Session Team ID : 401
+ [ 2019-03-22 01:22:04]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:22:23]Error:Session Team ID : 401
+ [ 2019-03-22 01:22:23]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:22:56]Error:Session Team ID : 401
+ [ 2019-03-22 01:22:56]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:26:23]Error:Logged in successfully
+ [ 2019-03-22 01:26:23]Error:Session Team ID : 401
+ [ 2019-03-22 01:26:23]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:27:15]Error:Session Team ID : 401
+ [ 2019-03-22 01:27:15]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:27:47]Error:Session Team ID : 401
+ [ 2019-03-22 01:27:47]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:29:01]Error:Session Team ID : 401
+ [ 2019-03-22 01:29:01]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:30:30]Error:Session Team ID : 401
+ [ 2019-03-22 01:30:30]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:31:16]Error:Session Team ID : 401
+ [ 2019-03-22 01:31:16]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:31:19]Error:Session Team ID : 401
+ [ 2019-03-22 01:31:19]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:32:33]Error:Session Team ID : 401
+ [ 2019-03-22 01:32:33]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:32:50]Error:Session Team ID : 401
+ [ 2019-03-22 01:32:50]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:33:33]Error:Session Team ID : 401
+ [ 2019-03-22 01:33:33]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:34:13]Error:Session Team ID : 401
+ [ 2019-03-22 01:34:13]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:34:32]Error:Session Team ID : 401
+ [ 2019-03-22 01:34:32]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:35:09]Error:Session Team ID : 401
+ [ 2019-03-22 01:35:09]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:35:11]Error:Session Team ID : 401
+ [ 2019-03-22 01:35:11]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:35:31]Error:Session Team ID : 401
+ [ 2019-03-22 01:35:31]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:35:57]Error:Logged in successfully
+ [ 2019-03-22 01:35:57]Error:Session Team ID : 401
+ [ 2019-03-22 01:35:57]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:37:13]Error:Session Team ID : 401
+ [ 2019-03-22 01:37:13]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:37:52]Error:Session Team ID : 401
+ [ 2019-03-22 01:37:52]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:38:18]Error:Session Team ID : 401
+ [ 2019-03-22 01:38:18]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:39:09]Error:Session Team ID : 401
+ [ 2019-03-22 01:39:09]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:40:00]Error:Session Team ID : 401
+ [ 2019-03-22 01:40:00]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:42:03]Error:Session Team ID : 401
+ [ 2019-03-22 01:42:03]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:44:05]Error:Session Team ID : 401
+ [ 2019-03-22 01:44:05]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:46:35]Error:Session Team ID : 401
+ [ 2019-03-22 01:46:35]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:46:48]Error:Session Team ID : 401
+ [ 2019-03-22 01:46:48]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:55:45]Error:Logged in successfully
+ [ 2019-03-22 01:55:45]Error:Session Team ID : 401
+ [ 2019-03-22 01:55:45]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:56:36]Error:Session Team ID : 401
+ [ 2019-03-22 01:56:36]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:56:36]Error:Session Team ID : 401
+ [ 2019-03-22 01:56:36]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:57:28]Error:Session Team ID : 401
+ [ 2019-03-22 01:57:28]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:57:45]Error:Session Team ID : 401
+ [ 2019-03-22 01:57:45]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:57:49]Error:Session Team ID : 401
+ [ 2019-03-22 01:57:49]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:58:14]Error:Session Team ID : 401
+ [ 2019-03-22 01:58:14]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:58:29]Error:Session Team ID : 401
+ [ 2019-03-22 01:58:29]Error:Session Username : rcbadmin
+ [ 2019-03-22 01:58:47]Error:Session Team ID : 401
+ [ 2019-03-22 01:58:47]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:01:15]Error:Session Team ID : 401
+ [ 2019-03-22 02:01:15]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:01:50]Error:Logged in successfully
+ [ 2019-03-22 02:01:50]Error:Session Team ID : 401
+ [ 2019-03-22 02:01:50]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:02:18]Error:Session Team ID : 401
+ [ 2019-03-22 02:02:18]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:04:08]Error:Session Team ID : 401
+ [ 2019-03-22 02:04:08]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:04:38]Error:Session Team ID : 401
+ [ 2019-03-22 02:04:38]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:06:58]Error:Session Team ID : 401
+ [ 2019-03-22 02:06:58]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:08:08]Error:Session Team ID : 401
+ [ 2019-03-22 02:08:08]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:08:12]Error:Session Team ID : 401
+ [ 2019-03-22 02:08:12]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:08:28]Error:Session Team ID : 401
+ [ 2019-03-22 02:08:28]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:09:32]Error:Session Team ID : 401
+ [ 2019-03-22 02:09:32]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:09:58]Error:Session Team ID : 401
+ [ 2019-03-22 02:09:58]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:10:00]Error:Session Team ID : 401
+ [ 2019-03-22 02:10:00]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:10:01]Error:Session Team ID : 401
+ [ 2019-03-22 02:10:01]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:10:30]Error:Session Team ID : 401
+ [ 2019-03-22 02:10:30]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:10:43]Error:Session Team ID : 401
+ [ 2019-03-22 02:10:43]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:24:52]Error:Session Team ID : 401
+ [ 2019-03-22 02:24:52]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:25:32]Error:Session Team ID : 401
+ [ 2019-03-22 02:25:32]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:25:50]Error:Session Team ID : 401
+ [ 2019-03-22 02:25:50]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:25:56]Error:Session Team ID : 401
+ [ 2019-03-22 02:25:56]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:26:14]Error:Session Team ID : 401
+ [ 2019-03-22 02:26:14]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:27:58]Error:Logged in successfully
+ [ 2019-03-22 02:27:58]Error:Session Team ID : 401
+ [ 2019-03-22 02:27:58]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:30:23]Error:Logged in successfully
+ [ 2019-03-22 02:30:23]Error:Session Team ID : 401
+ [ 2019-03-22 02:30:23]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:33:12]Error:Session Team ID : 401
+ [ 2019-03-22 02:33:12]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:33:37]Error:Session Team ID : 401
+ [ 2019-03-22 02:33:37]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:34:06]Error:Session Team ID : 401
+ [ 2019-03-22 02:34:06]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:36:47]Error:Session Team ID : 401
+ [ 2019-03-22 02:36:47]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:37:23]Error:Session Team ID : 401
+ [ 2019-03-22 02:37:23]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:37:42]Error:Session Team ID : 401
+ [ 2019-03-22 02:37:42]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:39:54]Error:Session Team ID : 401
+ [ 2019-03-22 02:39:54]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:40:14]Error:Session Team ID : 401
+ [ 2019-03-22 02:40:14]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:41:01]Error:Session Team ID : 401
+ [ 2019-03-22 02:41:01]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:42:30]Error:Session Team ID : 401
+ [ 2019-03-22 02:42:30]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:43:10]Error:Session Team ID : 401
+ [ 2019-03-22 02:43:10]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:43:21]Error:Session Team ID : 401
+ [ 2019-03-22 02:43:21]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:43:40]Error:Session Team ID : 401
+ [ 2019-03-22 02:43:40]Error:Session Username : rcbadmin
+ [ 2019-03-22 02:43:53]Error:Session Team ID : 401
+ [ 2019-03-22 02:43:53]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:44:37]Error:Session Team ID : 401
+ [ 2019-03-22 03:44:37]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:45:14]Error:Session Team ID : 401
+ [ 2019-03-22 03:45:14]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:45:14]Error:Session Team ID : 401
+ [ 2019-03-22 03:45:14]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:45:57]Error:Session Team ID : 401
+ [ 2019-03-22 03:45:57]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:47:10]Error:Session Team ID : 401
+ [ 2019-03-22 03:47:10]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:47:12]Error:Session Team ID : 401
+ [ 2019-03-22 03:47:12]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:47:30]Error:Session Team ID : 401
+ [ 2019-03-22 03:47:30]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:47:30]Error:Session Team ID : 401
+ [ 2019-03-22 03:47:30]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:47:47]Error:Session Team ID : 401
+ [ 2019-03-22 03:47:47]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:47:47]Error:Session Team ID : 401
+ [ 2019-03-22 03:47:47]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:48:07]Error:Session Team ID : 401
+ [ 2019-03-22 03:48:07]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:48:07]Error:Session Team ID : 401
+ [ 2019-03-22 03:48:07]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:48:13]Error:Session Team ID : 401
+ [ 2019-03-22 03:48:13]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:48:13]Error:Session Team ID : 401
+ [ 2019-03-22 03:48:13]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:48:19]Error:Session Team ID : 401
+ [ 2019-03-22 03:48:19]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:48:19]Error:Session Team ID : 401
+ [ 2019-03-22 03:48:19]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:49:00]Error:Session Team ID : 401
+ [ 2019-03-22 03:49:00]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:49:01]Error:Session Team ID : 401
+ [ 2019-03-22 03:49:01]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:49:11]Error:Session Team ID : 401
+ [ 2019-03-22 03:49:11]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:49:11]Error:Session Team ID : 401
+ [ 2019-03-22 03:49:11]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:49:21]Error:Session Team ID : 401
+ [ 2019-03-22 03:49:21]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:49:21]Error:Session Team ID : 401
+ [ 2019-03-22 03:49:21]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:49:29]Error:Session Team ID : 401
+ [ 2019-03-22 03:49:29]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:49:29]Error:Session Team ID : 401
+ [ 2019-03-22 03:49:29]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:49:53]Error:Session Team ID : 401
+ [ 2019-03-22 03:49:53]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:51:54]Error:Session Team ID : 401
+ [ 2019-03-22 03:51:54]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:52:06]Error:Session Team ID : 401
+ [ 2019-03-22 03:52:06]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:52:25]Error:Session Team ID : 401
+ [ 2019-03-22 03:52:25]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:52:27]Error:Session Team ID : 401
+ [ 2019-03-22 03:52:27]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:52:42]Error:Session Team ID : 401
+ [ 2019-03-22 03:52:42]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:53:25]Error:Session Team ID : 401
+ [ 2019-03-22 03:53:25]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:53:34]Error:Session Team ID : 401
+ [ 2019-03-22 03:53:34]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:53:34]Error:Session Team ID : 401
+ [ 2019-03-22 03:53:34]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:53:52]Error:Session Team ID : 401
+ [ 2019-03-22 03:53:52]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:53:52]Error:Session Team ID : 401
+ [ 2019-03-22 03:53:52]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:54:08]Error:Session Team ID : 401
+ [ 2019-03-22 03:54:08]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:54:09]Error:Session Team ID : 401
+ [ 2019-03-22 03:54:09]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:54:21]Error:Session Team ID : 401
+ [ 2019-03-22 03:54:21]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:54:29]Error:Session Team ID : 401
+ [ 2019-03-22 03:54:29]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:54:29]Error:Session Team ID : 401
+ [ 2019-03-22 03:54:29]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:57:07]Error:Session Team ID : 401
+ [ 2019-03-22 03:57:07]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:57:09]Error:Session Team ID : 401
+ [ 2019-03-22 03:57:09]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:57:23]Error:Session Team ID : 401
+ [ 2019-03-22 03:57:23]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:57:23]Error:Session Team ID : 401
+ [ 2019-03-22 03:57:23]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:57:36]Error:Session Team ID : 401
+ [ 2019-03-22 03:57:36]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:57:36]Error:Session Team ID : 401
+ [ 2019-03-22 03:57:36]Error:Session Username : rcbadmin
+ [ 2019-03-22 03:59:58]Error:Session Team ID : 401
+ [ 2019-03-22 03:59:58]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:07:26]Error:Session Team ID : 401
+ [ 2019-03-22 04:07:26]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:07:34]Error:Session Team ID : 401
+ [ 2019-03-22 04:07:34]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:07:41]Error:Session Team ID : 401
+ [ 2019-03-22 04:07:41]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:08:30]Error:Session Team ID : 401
+ [ 2019-03-22 04:08:30]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:09:09]Error:Session Team ID : 401
+ [ 2019-03-22 04:09:09]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:09:09]Error:Session Team ID : 401
+ [ 2019-03-22 04:09:09]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:09:14]Error:Session Team ID : 401
+ [ 2019-03-22 04:09:14]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:10:46]Error:Session Team ID : 401
+ [ 2019-03-22 04:10:46]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:10:53]Error:Session Team ID : 401
+ [ 2019-03-22 04:10:53]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:13:01]Error:Session Team ID : 401
+ [ 2019-03-22 04:13:01]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:13:01]Error:Session Team ID : 401
+ [ 2019-03-22 04:13:01]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:13:10]Error:Session Team ID : 401
+ [ 2019-03-22 04:13:10]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:13:10]Error:Session Team ID : 401
+ [ 2019-03-22 04:13:10]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:13:20]Error:Session Team ID : 401
+ [ 2019-03-22 04:13:20]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:17:46]Error:Session Team ID : 401
+ [ 2019-03-22 04:17:46]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:17:57]Error:Session Team ID : 401
+ [ 2019-03-22 04:17:57]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:17:57]Error:Session Team ID : 401
+ [ 2019-03-22 04:17:57]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:18:09]Error:Session Team ID : 401
+ [ 2019-03-22 04:18:09]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:18:13]Error:Session Team ID : 401
+ [ 2019-03-22 04:18:13]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:19:48]Error:Session Team ID : 401
+ [ 2019-03-22 04:19:48]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:19:55]Error:Session Team ID : 401
+ [ 2019-03-22 04:19:55]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:19:55]Error:Session Team ID : 401
+ [ 2019-03-22 04:19:55]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:20:03]Error:Session Team ID : 401
+ [ 2019-03-22 04:20:03]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:20:03]Error:Session Team ID : 401
+ [ 2019-03-22 04:20:03]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:20:20]Error:Session Team ID : 401
+ [ 2019-03-22 04:20:20]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:20:20]Error:Session Team ID : 401
+ [ 2019-03-22 04:20:20]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:20:28]Error:Session Team ID : 401
+ [ 2019-03-22 04:20:28]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:20:28]Error:Session Team ID : 401
+ [ 2019-03-22 04:20:28]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:20:58]Error:Session Team ID : 401
+ [ 2019-03-22 04:20:58]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:21:09]Error:Session Team ID : 401
+ [ 2019-03-22 04:21:09]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:21:10]Error:Session Team ID : 401
+ [ 2019-03-22 04:21:10]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:21:52]Error:Session Team ID : 401
+ [ 2019-03-22 04:21:52]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:21:52]Error:Session Team ID : 401
+ [ 2019-03-22 04:21:52]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:22:05]Error:Session Team ID : 401
+ [ 2019-03-22 04:22:05]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:22:06]Error:Session Team ID : 401
+ [ 2019-03-22 04:22:06]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:22:27]Error:Session Team ID : 401
+ [ 2019-03-22 04:22:27]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:22:27]Error:Session Team ID : 401
+ [ 2019-03-22 04:22:27]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:30:24]Error:Logged in successfully
+ [ 2019-03-22 04:30:24]Error:Session Team ID : 401
+ [ 2019-03-22 04:30:24]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:30:45]Error:Session Team ID : 401
+ [ 2019-03-22 04:30:45]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:30:45]Error:Session Team ID : 401
+ [ 2019-03-22 04:30:45]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:31:08]Error:Session Team ID : 401
+ [ 2019-03-22 04:31:08]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:31:08]Error:Session Team ID : 401
+ [ 2019-03-22 04:31:08]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:31:13]Error:Session Team ID : 401
+ [ 2019-03-22 04:31:13]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:31:13]Error:Session Team ID : 401
+ [ 2019-03-22 04:31:13]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:31:21]Error:Session Team ID : 401
+ [ 2019-03-22 04:31:21]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:31:21]Error:Session Team ID : 401
+ [ 2019-03-22 04:31:21]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:32:54]Error:Session Team ID : 401
+ [ 2019-03-22 04:32:54]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:33:07]Error:Session Team ID : 401
+ [ 2019-03-22 04:33:07]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:33:07]Error:Session Team ID : 401
+ [ 2019-03-22 04:33:07]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:33:16]Error:Session Team ID : 401
+ [ 2019-03-22 04:33:16]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:33:16]Error:Session Team ID : 401
+ [ 2019-03-22 04:33:16]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:33:25]Error:Session Team ID : 401
+ [ 2019-03-22 04:33:25]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:33:25]Error:Session Team ID : 401
+ [ 2019-03-22 04:33:25]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:33:34]Error:Session Team ID : 401
+ [ 2019-03-22 04:33:34]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:33:34]Error:Session Team ID : 401
+ [ 2019-03-22 04:33:34]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:33:45]Error:Session Team ID : 401
+ [ 2019-03-22 04:33:45]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:33:45]Error:Session Team ID : 401
+ [ 2019-03-22 04:33:45]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:33:56]Error:Session Team ID : 401
+ [ 2019-03-22 04:33:56]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:33:56]Error:Session Team ID : 401
+ [ 2019-03-22 04:33:56]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:34:19]Error:Session Team ID : 401
+ [ 2019-03-22 04:34:19]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:34:19]Error:Session Team ID : 401
+ [ 2019-03-22 04:34:19]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:34:26]Error:Session Team ID : 401
+ [ 2019-03-22 04:34:26]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:34:26]Error:Session Team ID : 401
+ [ 2019-03-22 04:34:26]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:35:22]Error:Session Team ID : 401
+ [ 2019-03-22 04:35:22]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:35:22]Error:Session Team ID : 401
+ [ 2019-03-22 04:35:22]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:35:49]Error:Session Team ID : 401
+ [ 2019-03-22 04:35:49]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:35:49]Error:Session Team ID : 401
+ [ 2019-03-22 04:35:49]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:36:11]Error:Session Team ID : 401
+ [ 2019-03-22 04:36:11]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:36:11]Error:Session Team ID : 401
+ [ 2019-03-22 04:36:11]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:36:25]Error:Session Team ID : 401
+ [ 2019-03-22 04:36:25]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:36:25]Error:Session Team ID : 401
+ [ 2019-03-22 04:36:25]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:37:58]Error:Session Team ID : 401
+ [ 2019-03-22 04:37:58]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:37:58]Error:Session Team ID : 401
+ [ 2019-03-22 04:37:58]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:38:48]Error:Session Team ID : 401
+ [ 2019-03-22 04:38:48]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:39:52]Error:Session Team ID : 401
+ [ 2019-03-22 04:39:52]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:39:58]Error:Session Team ID : 401
+ [ 2019-03-22 04:39:58]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:40:01]Error:Session Team ID : 401
+ [ 2019-03-22 04:40:01]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:40:10]Error:Session Team ID : 401
+ [ 2019-03-22 04:40:10]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:50:05]Error:Session Team ID : 401
+ [ 2019-03-22 04:50:05]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:51:17]Error:Session Team ID : 401
+ [ 2019-03-22 04:51:17]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:51:42]Error:Session Team ID : 401
+ [ 2019-03-22 04:51:42]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:51:43]Error:Session Team ID : 401
+ [ 2019-03-22 04:51:43]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:51:53]Error:Session Team ID : 401
+ [ 2019-03-22 04:51:53]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:51:55]Error:Session Team ID : 401
+ [ 2019-03-22 04:51:55]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:54:33]Error:Session Team ID : 401
+ [ 2019-03-22 04:54:33]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:55:05]Error:Session Team ID : 401
+ [ 2019-03-22 04:55:05]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:55:05]Error:Session Team ID : 401
+ [ 2019-03-22 04:55:05]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:55:16]Error:Session Team ID : 401
+ [ 2019-03-22 04:55:16]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:55:16]Error:Session Team ID : 401
+ [ 2019-03-22 04:55:16]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:56:33]Error:Session Team ID : 401
+ [ 2019-03-22 04:56:33]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:56:33]Error:Session Team ID : 401
+ [ 2019-03-22 04:56:33]Error:Session Username : rcbadmin
+ [ 2019-03-22 04:57:08]Error:Session Team ID : 401
+ [ 2019-03-22 04:57:08]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:00:55]Error:Session Team ID : 401
+ [ 2019-03-22 05:00:55]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:01:05]Error:Session Team ID : 401
+ [ 2019-03-22 05:01:05]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:01:06]Error:Session Team ID : 401
+ [ 2019-03-22 05:01:06]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:01:31]Error:Session Team ID : 401
+ [ 2019-03-22 05:01:31]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:01:31]Error:Session Team ID : 401
+ [ 2019-03-22 05:01:31]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:01:45]Error:Session Team ID : 401
+ [ 2019-03-22 05:01:45]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:01:45]Error:Session Team ID : 401
+ [ 2019-03-22 05:01:45]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:01:56]Error:Session Team ID : 401
+ [ 2019-03-22 05:01:56]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:01:56]Error:Session Team ID : 401
+ [ 2019-03-22 05:01:56]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:02:34]Error:Session Team ID : 401
+ [ 2019-03-22 05:02:34]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:02:34]Error:Session Team ID : 401
+ [ 2019-03-22 05:02:34]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:02:46]Error:Session Team ID : 401
+ [ 2019-03-22 05:02:46]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:02:46]Error:Session Team ID : 401
+ [ 2019-03-22 05:02:46]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:03:03]Error:Session Team ID : 401
+ [ 2019-03-22 05:03:03]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:03:03]Error:Session Team ID : 401
+ [ 2019-03-22 05:03:03]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:03:16]Error:Session Team ID : 401
+ [ 2019-03-22 05:03:16]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:03:16]Error:Session Team ID : 401
+ [ 2019-03-22 05:03:16]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:03:20]Error:Session Team ID : 401
+ [ 2019-03-22 05:03:20]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:03:30]Error:Session Team ID : 401
+ [ 2019-03-22 05:03:30]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:03:30]Error:Session Team ID : 401
+ [ 2019-03-22 05:03:30]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:03:53]Error:Session Team ID : 401
+ [ 2019-03-22 05:03:53]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:03:53]Error:Session Team ID : 401
+ [ 2019-03-22 05:03:53]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:03:56]Error:Session Team ID : 401
+ [ 2019-03-22 05:03:56]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:04:00]Error:Session Team ID : 401
+ [ 2019-03-22 05:04:00]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:07:32]Error:Logged in successfully
+ [ 2019-03-22 05:07:32]Error:Session Team ID : 401
+ [ 2019-03-22 05:07:32]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:07:46]Error:Session Team ID : 401
+ [ 2019-03-22 05:07:46]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:07:46]Error:Session Team ID : 401
+ [ 2019-03-22 05:07:46]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:07:58]Error:Session Team ID : 401
+ [ 2019-03-22 05:07:58]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:07:58]Error:Session Team ID : 401
+ [ 2019-03-22 05:07:58]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:08:09]Error:Session Team ID : 401
+ [ 2019-03-22 05:08:09]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:08:09]Error:Session Team ID : 401
+ [ 2019-03-22 05:08:09]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:08:16]Error:Session Team ID : 401
+ [ 2019-03-22 05:08:16]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:08:16]Error:Session Team ID : 401
+ [ 2019-03-22 05:08:16]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:08:21]Error:Session Team ID : 401
+ [ 2019-03-22 05:08:21]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:08:21]Error:Session Team ID : 401
+ [ 2019-03-22 05:08:21]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:42:35]Error:Logged in successfully
+ [ 2019-03-22 05:42:35]Error:Session Team ID : 401
+ [ 2019-03-22 05:42:35]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:42:35]Error:result for player server_position
+ [ 2019-03-22 05:43:00]Error:Session Team ID : 401
+ [ 2019-03-22 05:43:00]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:43:00]Error:result for player server_position
+ [ 2019-03-22 05:43:00]Error:Inside submitplayer
+ [ 2019-03-22 05:43:00]Error:Inserted server_player table in DB
+ [ 2019-03-22 05:43:00]Error:Session Team ID : 401
+ [ 2019-03-22 05:43:00]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:43:00]Error:result for player server_position
+ [ 2019-03-22 05:43:24]Error:Session Team ID : 401
+ [ 2019-03-22 05:43:24]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:43:24]Error:result for player server_position
+ [ 2019-03-22 05:43:24]Error:Inside submitplayer
+ [ 2019-03-22 05:43:24]Error:Inserted server_player table in DB
+ [ 2019-03-22 05:43:24]Error:Session Team ID : 401
+ [ 2019-03-22 05:43:24]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:43:24]Error:result for player server_position
+ [ 2019-03-22 05:43:32]Error:Session Team ID : 401
+ [ 2019-03-22 05:43:32]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:43:32]Error:result for player server_position
+ [ 2019-03-22 05:43:32]Error:Inside Edit player
+ [ 2019-03-22 05:43:32]Error:Updated player in table
+ [ 2019-03-22 05:43:32]Error:Session Team ID : 401
+ [ 2019-03-22 05:43:32]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:43:32]Error:result for player server_position
+ [ 2019-03-22 05:43:38]Error:Session Team ID : 401
+ [ 2019-03-22 05:43:38]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:43:38]Error:result for player server_position
+ [ 2019-03-22 05:43:38]Error:Inside delete of player
+ [ 2019-03-22 05:43:38]Error:deleted player
+ [ 2019-03-22 05:43:39]Error:Session Team ID : 401
+ [ 2019-03-22 05:43:39]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:43:39]Error:result for player server_position
+ [ 2019-03-22 05:44:37]Error:Logged in successfully
+ [ 2019-03-22 05:44:37]Error:Session Team ID : 401
+ [ 2019-03-22 05:44:37]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:44:37]Error:result for player server_position
+ [ 2019-03-22 05:44:42]Error:Display Team page result
+ [ 2019-03-22 05:44:47]Error:welcome to Schedule page
+ [ 2019-03-22 05:44:47]Error:Display Schedule rseult
+ [ 2019-03-22 05:44:58]Error:Display Team page result
+ [ 2019-03-22 05:44:59]Error:welcome to Schedule page
+ [ 2019-03-22 05:44:59]Error:Display Schedule rseult
+ [ 2019-03-22 05:45:07]Error:Session Team ID : 401
+ [ 2019-03-22 05:45:07]Error:Session Username : rcbadmin
+ [ 2019-03-22 05:45:07]Error:result for player server_position
+ [ 2019-03-22 06:36:03]Error:Logged in successfully
+ [ 2019-03-22 06:36:03]Error:Session Team ID : 401
+ [ 2019-03-22 06:36:03]Error:Session Username : rcbadmin
+ [ 2019-03-22 06:36:03]Error:result for player server_position
+ [ 2019-03-22 06:36:03]Error:You are a league manager or Admin
+ [ 2019-03-22 06:36:03]Error:Logged in as Admin
+ [ 2019-03-22 06:37:25]Error:Session Team ID : 401
+ [ 2019-03-22 06:37:25]Error:Session Username : rcbadmin
+ [ 2019-03-22 06:37:25]Error:result for player server_position
+ [ 2019-03-22 06:37:25]Error:You are a league manager or Admin
+ [ 2019-03-22 06:37:25]Error:Logged in as Admin
+ [ 2019-03-22 06:37:28]Error:Session Team ID : 401
+ [ 2019-03-22 06:37:28]Error:Session Username : rcbadmin
+ [ 2019-03-22 06:37:28]Error:result for player server_position
+ [ 2019-03-22 06:37:28]Error:You are a league manager or Admin
+ [ 2019-03-22 06:37:28]Error:Logged in as Admin
+ [ 2019-03-22 06:37:56]Error:Logged in successfully
+ [ 2019-03-22 06:37:56]Error:Session Team ID : 401
+ [ 2019-03-22 06:37:56]Error:Session Username : rcbadmin
+ [ 2019-03-22 06:37:56]Error:result for player server_position
+ [ 2019-03-22 06:37:56]Error:You are a league manager or Admin
+ [ 2019-03-22 06:37:56]Error:Logged in as Admin
+ [ 2019-03-22 06:38:03]Error:welcome to Schedule page
+ [ 2019-03-22 06:38:03]Error:Display Schedule rseult
+ [ 2019-03-22 06:39:16]Error:welcome to Schedule page
+ [ 2019-03-22 06:39:16]Error:Display Schedule rseult
+ [ 2019-03-22 06:39:44]Error:welcome to Schedule page
+ [ 2019-03-22 06:39:44]Error:Display Schedule rseult
+ [ 2019-03-22 06:39:48]Error:Session Team ID : 401
+ [ 2019-03-22 06:39:48]Error:Session Username : rcbadmin
+ [ 2019-03-22 06:39:48]Error:result for player server_position
+ [ 2019-03-22 06:39:48]Error:You are a league manager or Admin
+ [ 2019-03-22 06:39:48]Error:Logged in as Admin
+ [ 2019-03-22 11:03:26]Error:Logged in successfully
+ [ 2019-03-22 11:03:26]Error:Session Team ID : 401
+ [ 2019-03-22 11:03:26]Error:Session Username : rcbadmin
+ [ 2019-03-22 11:03:26]Error:result for player server_position
+ [ 2019-03-22 11:03:26]Error:You are a league manager or Admin
+ [ 2019-03-22 11:03:26]Error:Logged in as Admin
+ [ 2019-03-22 11:03:31]Error:Session Team ID : 401
+ [ 2019-03-22 11:03:31]Error:Session Username : rcbadmin
+ [ 2019-03-22 11:03:31]Error:result for player server_position
+ [ 2019-03-22 11:03:31]Error:Inside submit position
+ [ 2019-03-22 11:03:31]Error:Please add Position
+ [ 2019-03-22 11:03:31]Error:You are a league manager or Admin
+ [ 2019-03-22 11:03:31]Error:Logged in as Admin
+ [ 2019-03-22 11:04:45]Error:Logged in successfully
+ [ 2019-03-22 11:04:45]Error:Session Team ID : 401
+ [ 2019-03-22 11:04:45]Error:Session Username : rcbadmin
+ [ 2019-03-22 11:04:45]Error:result for player server_position
+ [ 2019-03-22 11:04:45]Error:You are a league manager or Admin
+ [ 2019-03-22 11:04:45]Error:Logged in as Admin
+ [ 2019-03-22 11:04:49]Error:Session Team ID : 401
+ [ 2019-03-22 11:04:49]Error:Session Username : rcbadmin
+ [ 2019-03-22 11:04:49]Error:result for player server_position
+ [ 2019-03-22 11:04:49]Error:Inside submit position
+ [ 2019-03-22 11:04:49]Error:Please add Position
+ [ 2019-03-22 11:04:49]Error:You are a league manager or Admin
+ [ 2019-03-22 11:04:49]Error:Logged in as Admin
+ [ 2019-03-22 11:04:53]Error:Session Team ID : 401
+ [ 2019-03-22 11:04:53]Error:Session Username : rcbadmin
+ [ 2019-03-22 11:04:53]Error:result for player server_position
+ [ 2019-03-22 11:04:53]Error:You are a league manager or Admin
+ [ 2019-03-22 11:04:53]Error:Logged in as Admin
+ [ 2019-03-22 11:41:50]Error:Logged in successfully
+ [ 2019-03-22 11:41:50]Error:Session Team ID : 401
+ [ 2019-03-22 11:41:50]Error:Session Username : rcbadmin
+ [ 2019-03-22 11:41:50]Error:result for player server_position
+ [ 2019-03-22 11:41:50]Error:You are a league manager or Admin
+ [ 2019-03-22 11:41:50]Error:Logged in as Admin
+ [ 2019-03-22 11:57:39]Error:Session Team ID : 401
+ [ 2019-03-22 11:57:39]Error:Session Username : rcbadmin
+ [ 2019-03-22 11:57:39]Error:result for player server_position
+ [ 2019-03-22 11:57:39]Error:You are a league manager or Admin
+ [ 2019-03-22 11:57:39]Error:Logged in as Admin
+ [ 2019-03-22 11:59:45]Error:Session Team ID : 401
+ [ 2019-03-22 11:59:45]Error:Session Username : rcbadmin
+ [ 2019-03-22 11:59:45]Error:result for player server_position
+ [ 2019-03-22 11:59:45]Error:You are a league manager or Admin
+ [ 2019-03-22 11:59:45]Error:Logged in as Admin
+ [ 2019-03-22 12:27:46]Error:Logged in successfully
+ [ 2019-03-22 12:28:40]Error:Session Team ID : 401
+ [ 2019-03-22 12:28:40]Error:Session Username : rcbadmin
+ [ 2019-03-22 12:28:40]Error:result for player server_position
+ [ 2019-03-22 12:28:40]Error:You are a league manager or Admin
+ [ 2019-03-22 12:28:40]Error:Logged in as Admin
+ [ 2019-03-22 12:28:48]Error:Session Team ID : 401
+ [ 2019-03-22 12:28:48]Error:Session Username : rcbadmin
+ [ 2019-03-22 12:28:48]Error:result for player server_position
+ [ 2019-03-22 12:28:48]Error:Inside submitplayer
+ [ 2019-03-22 12:28:48]Error:Error in First Name
+ [ 2019-03-22 12:28:48]Error:Error in last Name
+ [ 2019-03-22 12:28:48]Error:Error in dob
+ [ 2019-03-22 12:28:48]Error:Error in Jersey
+ [ 2019-03-22 12:28:48]Error:You are a league manager or Admin
+ [ 2019-03-22 12:28:48]Error:Logged in as Admin
+ [ 2019-03-22 12:29:14]Error:Session Team ID : 401
+ [ 2019-03-22 12:29:14]Error:Session Username : rcbadmin
+ [ 2019-03-22 12:29:14]Error:result for player server_position
+ [ 2019-03-22 12:29:14]Error:Inside submitplayer
+ [ 2019-03-22 12:29:14]Error:Error in Jersey
+ [ 2019-03-22 12:29:14]Error:You are a league manager or Admin
+ [ 2019-03-22 12:29:14]Error:Logged in as Admin
+ [ 2019-03-22 12:29:25]Error:Session Team ID : 401
+ [ 2019-03-22 12:29:25]Error:Session Username : rcbadmin
+ [ 2019-03-22 12:29:25]Error:result for player server_position
+ [ 2019-03-22 12:29:25]Error:You are a league manager or Admin
+ [ 2019-03-22 12:29:25]Error:Logged in as Admin
+ [ 2019-03-22 12:30:02]Error:Session Team ID : 401
+ [ 2019-03-22 12:30:02]Error:Session Username : rcbadmin
+ [ 2019-03-22 12:30:02]Error:result for player server_position
+ [ 2019-03-22 12:30:02]Error:Inside Insesrt User block
+ [ 2019-03-22 12:30:02]Error:confirmed Password
+ [ 2019-03-22 12:30:02]Error:Created user
+ [ 2019-03-22 12:30:02]Error:You are a league manager or Admin
+ [ 2019-03-22 12:30:02]Error:Logged in as Admin
+ [ 2019-03-22 12:30:02]Error:Session Team ID : 401
+ [ 2019-03-22 12:30:02]Error:Session Username : rcbadmin
+ [ 2019-03-22 12:30:02]Error:result for player server_position
+ [ 2019-03-22 12:30:02]Error:You are a league manager or Admin
+ [ 2019-03-22 12:30:02]Error:Logged in as Admin
+ [ 2019-03-22 12:30:12]Error:Session Team ID : 401
+ [ 2019-03-22 12:30:12]Error:Session Username : rcbadmin
+ [ 2019-03-22 12:30:12]Error:result for player server_position
+ [ 2019-03-22 12:30:12]Error:Inside delete User
+ [ 2019-03-22 12:30:12]Error:deleted User
+ [ 2019-03-22 12:30:12]Error:You are a league manager or Admin
+ [ 2019-03-22 12:30:12]Error:Logged in as Admin
+ [ 2019-03-22 12:30:12]Error:Session Team ID : 401
+ [ 2019-03-22 12:30:12]Error:Session Username : rcbadmin
+ [ 2019-03-22 12:30:12]Error:result for player server_position
+ [ 2019-03-22 12:30:12]Error:You are a league manager or Admin
+ [ 2019-03-22 12:30:12]Error:Logged in as Admin
+ [ 2019-03-22 12:39:00]Error:Session Team ID : 401
+ [ 2019-03-22 12:39:00]Error:Session Username : rcbadmin
+ [ 2019-03-22 12:39:00]Error:result for player server_position
+ [ 2019-03-22 12:39:00]Error:You are a league manager or Admin
+ [ 2019-03-22 12:39:00]Error:Logged in as Admin
+ [ 2019-03-22 12:39:03]Error:Session Team ID : 401
+ [ 2019-03-22 12:39:03]Error:Session Username : rcbadmin
+ [ 2019-03-22 12:39:03]Error:result for player server_position
+ [ 2019-03-22 12:39:03]Error:Inside submit position
+ [ 2019-03-22 12:39:03]Error:Please add Position
+ [ 2019-03-22 12:39:03]Error:You are a league manager or Admin
+ [ 2019-03-22 12:39:03]Error:Logged in as Admin
+ [ 2019-03-22 12:39:07]Error:Session Team ID : 401
+ [ 2019-03-22 12:39:07]Error:Session Username : rcbadmin
+ [ 2019-03-22 12:39:07]Error:result for player server_position
+ [ 2019-03-22 12:39:07]Error:Inside submitplayer
+ [ 2019-03-22 12:39:07]Error:Error in First Name
+ [ 2019-03-22 12:39:07]Error:Error in last Name
+ [ 2019-03-22 12:39:07]Error:Error in dob
+ [ 2019-03-22 12:39:07]Error:Error in Jersey
+ [ 2019-03-22 12:39:07]Error:You are a league manager or Admin
+ [ 2019-03-22 12:39:07]Error:Logged in as Admin
+ [ 2019-03-22 12:39:11]Error:Session Team ID : 401
+ [ 2019-03-22 12:39:11]Error:Session Username : rcbadmin
+ [ 2019-03-22 12:39:11]Error:result for player server_position
+ [ 2019-03-22 12:39:11]Error:Inside Insesrt User block
+ [ 2019-03-22 12:39:11]Error:Error in username
+ [ 2019-03-22 12:39:11]Error:
+ [ 2019-03-22 12:39:11]Error:You are a league manager or Admin
+ [ 2019-03-22 12:39:11]Error:Logged in as Admin
+ [ 2019-03-22 12:39:34]Error:Session Team ID : 401
+ [ 2019-03-22 12:39:34]Error:Session Username : rcbadmin
+ [ 2019-03-22 12:39:34]Error:result for player server_position
+ [ 2019-03-22 12:39:34]Error:You are a league manager or Admin
+ [ 2019-03-22 12:39:34]Error:Logged in as Admin
+ [ 2019-03-22 12:41:59]Error:Session Team ID : 401
+ [ 2019-03-22 12:41:59]Error:Session Username : rcbadmin
+ [ 2019-03-22 12:41:59]Error:result for player server_position
+ [ 2019-03-22 12:41:59]Error:Inside Insesrt User block
+ [ 2019-03-22 12:41:59]Error:confirmed Password
+ [ 2019-03-22 12:42:10]Error:Session Team ID : 401
+ [ 2019-03-22 12:42:10]Error:Session Username : rcbadmin
+ [ 2019-03-22 12:42:10]Error:result for player server_position
+ [ 2019-03-22 12:42:10]Error:Inside delete User
+ [ 2019-03-22 12:42:10]Error:deleted Usersalman
+ [ 2019-03-22 12:42:10]Error:You are a league manager or Admin
+ [ 2019-03-22 12:42:10]Error:Logged in as Admin
+ [ 2019-03-22 12:42:11]Error:Session Team ID : 401
+ [ 2019-03-22 12:42:11]Error:Session Username : rcbadmin
+ [ 2019-03-22 12:42:11]Error:result for player server_position
+ [ 2019-03-22 12:42:11]Error:You are a league manager or Admin
+ [ 2019-03-22 12:42:11]Error:Logged in as Admin
+ [ 2019-03-22 12:42:25]Error:Session Team ID : 401
+ [ 2019-03-22 12:42:25]Error:Session Username : rcbadmin
+ [ 2019-03-22 12:42:25]Error:result for player server_position
+ [ 2019-03-22 12:42:25]Error:Inside Insesrt User block
+ [ 2019-03-22 12:42:25]Error:confirmed Password
+ [ 2019-03-22 12:42:25]Error:Created user
+ [ 2019-03-22 12:42:25]Error:You are a league manager or Admin
+ [ 2019-03-22 12:42:25]Error:Logged in as Admin
+ [ 2019-03-22 12:42:25]Error:Session Team ID : 401
+ [ 2019-03-22 12:42:25]Error:Session Username : rcbadmin
+ [ 2019-03-22 12:42:25]Error:result for player server_position
+ [ 2019-03-22 12:42:25]Error:You are a league manager or Admin
+ [ 2019-03-22 12:42:25]Error:Logged in as Admin
+ [ 2019-03-22 12:42:32]Error:Session Team ID : 401
+ [ 2019-03-22 12:42:32]Error:Session Username : rcbadmin
+ [ 2019-03-22 12:42:32]Error:result for player server_position
+ [ 2019-03-22 12:42:32]Error:Inside delete User
+ [ 2019-03-22 12:42:32]Error:deleted Usersreer
+ [ 2019-03-22 12:42:32]Error:You are a league manager or Admin
+ [ 2019-03-22 12:42:32]Error:Logged in as Admin
+ [ 2019-03-22 12:42:32]Error:Session Team ID : 401
+ [ 2019-03-22 12:42:32]Error:Session Username : rcbadmin
+ [ 2019-03-22 12:42:32]Error:result for player server_position
+ [ 2019-03-22 12:42:32]Error:You are a league manager or Admin
+ [ 2019-03-22 12:42:32]Error:Logged in as Admin

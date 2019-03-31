@@ -1,0 +1,263 @@
+body{
+ background: white;   
+}
+.header {
+  background-color: white;
+/*background-image: url("ipl4.png");
+background-repeat: no-repeat;
+  background-position: left top;
+background-image: url("cham2.png");
+background-repeat: no-repeat;
+  background-position: right top; */ 
+    
+  background: #ffffff url("../img/ipl4.png") no-repeat left top;
+/* background: #ffffff url("cham2.png") no-repeat right top; */   
+    height: 80px;
+/*height: 100px;
+  width: 100px;    */
+  padding: 5px;
+    
+  text-align: center;
+}
+h5{text-align: center;}
+#frm{
+    border: solid gray 1px;
+    width: 20%;
+    border-radius: 5px;
+    margin: 10px 10px 15px 10px;
+   /*  margin-left:600px ;*/
+    background: white;
+    padding:50px;
+}
+/*#frm1{
+    border: solid gray 1px;
+    width: 25%;
+    border-radius: 5px;
+    margin: 10px 10px 15px 10px;;
+    background: white;
+    padding:50px;
+}*/
+#btn{
+    color: #fff;
+    background: #337ab7;
+    padding:5px;
+    margin-left: 60%;
+}
+#btn1{
+    color: #fff;
+    background: #337ab7;
+    padding:5px;
+    margin-left: 69%;
+}
+/*input[type=button], input[type=submit], input[type=reset] {
+  background-color: #337ab7;
+  border: none;
+  color: white;
+  padding: 10px 22px;
+  text-decoration: none;
+  margin: 3px 2px;
+  cursor: pointer;
+    font-size: 15px;
+    
+}*/
+
+/*input[type=text],[type=password], select {
+  width: 100%;
+  padding: 8px 10px;
+  margin: 0px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 1px;
+  box-sizing: border-box;
+}*/
+
+#frm1{
+   border: solid gray 1px;
+    width: 35%;
+    border-radius: 5px;
+    margin: 10px 10px 15px 10px;
+    background: white;
+    padding:50px;
+}
+#frmsls{
+   border: solid gray 1px;
+    width: 35%;
+    border-radius: 5px;
+    margin-left:150px;
+   /* margin: 10px 10px 15px 10px;*/
+    background: white;
+    padding:50px;
+}
+#frm6{
+   /* border: solid gray 1px;*/
+    width: 35%;
+    /*border-radius: 5px;*/
+    margin-left:850px ;
+    /*margin: 10px 10px 15px 10px;*/
+    background: white;
+    padding:50px;
+}
+#frmUser{
+    border: solid gray 1px;
+    width: 40%;
+    border-radius: 5px;
+    margin-left:700px ;
+     margin-top:150px;
+    /*margin: 10px 10px 15px 10px;*/
+    background: white;
+    padding:50px;
+}
+#frm12{
+/*  float:right;  
+  border: solid gray 1px;
+    width: 35%;
+    border-radius: 5px;
+    
+    background: white;
+    padding:50px;*/
+    
+     border: solid gray 1px;
+    width: 35%;
+    border-radius: 5px;
+     margin-left:15px ;
+   /* margin-left:700px ;*/
+    /*margin: 10px 10px 15px 10px;*/
+    background: white;
+    padding:50px;
+}
+#frm4{
+   border: solid gray 1px;
+    width: 35%;
+    border-radius: 5px;
+    margin-left:600px ;
+    /*margin: 10px 10px 15px 10px;*/
+    background: white;
+    padding:50px;
+}
+#frmTeam{
+ /* float:left;  */
+  border: solid gray 1px;
+    width: 35%;
+    border-radius: 5px;
+     margin-top:350px ;
+      margin-left: 15px;
+    background: white;
+    padding:50px;
+}
+#frmSchedule{
+/*  float:left;  */
+  border: solid gray 1px;
+    width: 35%;
+    border-radius: 5px;
+    margin-left: 15px;
+    background: white;
+    padding:50px;
+}
+#frmAdmin{
+  float:left;  
+  border: solid gray 1px;
+    width: 35%;
+    border-radius: 5px;
+    
+    background: white;
+    padding:40px;
+}
+#frmLeague{
+  /*float:left; */ 
+  border: solid gray 1px;
+    width: 35%;
+    border-radius: 5px;
+     margin-left:15px ;
+    background: white;
+    padding:50px;
+}
+#frmSport{
+  float:right;  
+  border: solid gray 1px;
+    width: 35%;
+    margin-top:100px ;
+    border-radius: 5px;
+   /* margin: 10px 10px 15px 10px;*/
+    background: white;
+    padding:50px;
+}
+#frmSeason{
+   border: solid gray 1px;
+    width: 35%;
+    border-radius: 5px;
+    margin-left:600px ;
+    margin-top:150px ;
+    /*margin: 10px 10px 15px 10px;*/
+    background: white;
+    padding:50px;
+}
+#frm5{
+   border: solid gray 1px;
+    width: 30%;
+    border-radius: 5px;
+    margin-left:600px ;
+    /*margin: 10px 10px 15px 10px;*/
+    background: white;
+    padding:50px;
+}
+#frm3{
+   border: solid gray 1px;
+    width: 40%;
+    border-radius: 5px;
+    margin: 10px 10px 15px 10px;
+    background: white;
+    padding:50px;
+}
+
+#positionfrm{
+   border: solid gray 1px;
+    width: 30%;
+     position: absolute;
+  right: 0px;
+    border-radius: 5px;
+   margin: 10px 10px 15px 10px;
+    background: white;
+    padding: 22px 20px;
+  /*margin: 8px 0;*/
+    box-sizing: border-box;
+}
+ #errorHandle{
+                            background-color:#ff9999;
+                            color:black;
+                            padding:20px;
+                            border:solid;
+                            height:auto;
+                            border-color:red;
+                            border-width:4px;
+}
+/*
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+*/
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+}
+.button1 {
+color: #fff;
+    
+padding:8px 8px;    
+
+background-color: #337ab7;
+margin-left: 20px;   
+margin-left: 20px;       
+}
